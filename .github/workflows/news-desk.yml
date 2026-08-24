@@ -78,8 +78,21 @@ jobs:
           body, so write it for a person reading on a phone: what you drafted, what you screened out
           and why, any stale rows in data/universe-curated.csv, and anything you dropped at
           self-check. If nothing cleared the bar, say so plainly and still write PR_BODY.md." \
+            --model claude-sonnet-5 \
             --allowedTools "Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch" \
-            --max-turns 80
+            --max-turns 40 \
+            --output-format json > /tmp/claude-run.json || true
+
+          # Always surface what the run cost. A billing alert is too late.
+          {
+            echo "### Run cost and usage"
+            echo '```'
+            jq -r 'to_entries
+                   | map(select(.key | test("cost|usage|duration|turns|error")))
+                   | .[] | "\(.key): \(.value)"' /tmp/claude-run.json \
+              2>/dev/null || echo "could not parse the run output"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Open pull request
         env:

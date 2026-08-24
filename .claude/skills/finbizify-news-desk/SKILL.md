@@ -36,6 +36,30 @@ Determine the day of the week in America/Los_Angeles.
 
 Target 2 to 3 items on Tue-Thu. Never more than 4. Never pad to hit a number.
 
+## Cost discipline
+
+This runs every weekday on a metered API key. Token volume is a design constraint, not an
+afterthought. The rules below are as binding as the editorial ones.
+
+**Never read an archived source file whole.** They run 17KB to 50KB each. Use `grep` with context
+(`grep -n -C2 "comparable sales" sources/foo.txt`) to pull the specific lines you need. You need a
+handful of figures, not a filing. Reading five filings whole is the single most expensive thing this
+job can do.
+
+**Same for fetched pages.** Do not paste a full press release into your reasoning. Extract, cite, move
+on.
+
+**Cap the scan.** At most 6 web searches per run. If six searches have not produced two or three
+qualifying candidates, that is a slow day, and a slow day is a correct outcome.
+
+**Screen before you fetch.** Apply the universe, sector, and event-type filters to headlines first.
+Only resolve and archive a source once a candidate has passed every filter. Fetching a filing for a
+story you then discard is pure waste.
+
+**Stop at 3 items.** Never draft a fourth to be thorough.
+
+**Do not re-read what you just wrote.** You have the content in context from writing it.
+
 ## The pipeline
 
 Run these in order. Do not skip ahead to drafting.
@@ -125,7 +149,8 @@ worth publishing.
 
 Before finishing, re-read every drafted item against its archived source file and confirm:
 
-- Every number, date, and name appears in the archived source
+- Every number, date, and name appears in the archived source. **Verify this by grepping the
+  archived file, never by reading it whole**
 - **Every factual claim appears in the archived source, not only the figures.** Read the concept
   paragraph sentence by sentence and confirm each assertion about the company is in the document. A
   statement about how a company defines a line item, what it includes, or how it operates is a claim
