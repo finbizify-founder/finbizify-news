@@ -1,0 +1,110 @@
+name: News desk
+
+# 14:13 UTC = 7:13am PDT, weekdays. Off the :00 mark because GitHub's scheduler is busiest there.
+# Note this is fixed UTC: when the US leaves daylight time in November this lands at 6:13am PT.
+# GitHub's cron runs late under load, sometimes 15+ minutes. Fine for a morning draft.
+on:
+  schedule:
+    - cron: "13 14 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "auto (by weekday), items (force a normal item run), or synthesis (force Friday)"
+        type: choice
+        options: [auto, items, synthesis]
+        default: auto
+      note:
+        description: "Optional instruction passed to the run, e.g. a date to catch up on"
+        type: string
+        required: false
+
+# Least privilege: enough to push a branch and open a PR, nothing else.
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: news-desk
+  cancel-in-progress: false
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Set run variables
+        id: vars
+        run: |
+          echo "date=$(TZ=America/Los_Angeles date +%F)" >> "$GITHUB_OUTPUT"
+          echo "weekday=$(TZ=America/Los_Angeles date +%A)" >> "$GITHUB_OUTPUT"
+          echo "branch=news/$(TZ=America/Los_Angeles date +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Create working branch
+        run: |
+          git config user.name "finbizify-news-desk"
+          git config user.email "joe@finbizify.com"
+          git checkout -b "${{ steps.vars.outputs.branch }}"
+
+      - name: Draft the day's items
+        env:
+          # Step-scoped so no other step or third-party action can see the key.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RUN_DATE: ${{ steps.vars.outputs.date }}
+          RUN_WEEKDAY: ${{ steps.vars.outputs.weekday }}
+          RUN_MODE: ${{ inputs.mode || 'auto' }}
+          RUN_NOTE: ${{ inputs.note }}
+        run: |
+          claude -p "Use the finbizify-news-desk skill.
+
+          Today is $RUN_WEEKDAY, $RUN_DATE (America/Los_Angeles).
+          Run mode: $RUN_MODE. If the mode is 'auto', pick the run type from the weekday as the skill
+          describes. If it is 'items' or 'synthesis', force that run type regardless of weekday.
+          Additional instruction from the operator (may be empty): $RUN_NOTE
+
+          Follow the skill's pipeline in order. Write item files to content/news/, a synthesis to
+          content/weeks/, and archived sources to sources/ via scripts/archive-source.mjs.
+
+          Write your run summary to PR_BODY.md in the repo root. That file becomes the pull request
+          body, so write it for a person reading on a phone: what you drafted, what you screened out
+          and why, any stale rows in data/universe-curated.csv, and anything you dropped at
+          self-check. If nothing cleared the bar, say so plainly and still write PR_BODY.md." \
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch" \
+            --max-turns 80
+
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # PR_BODY.md is the agent's run summary. It is never committed.
+          if [ -f PR_BODY.md ]; then
+            cp PR_BODY.md /tmp/pr-body.md
+            rm -f PR_BODY.md
+          else
+            echo "The run produced no summary. Check the workflow logs." > /tmp/pr-body.md
+          fi
+
+          git add content sources data
+          if git diff --cached --quiet; then
+            echo "No content changes. Slow day, or the run bailed."
+            echo "### News desk: no changes on ${{ steps.vars.outputs.date }}" >> "$GITHUB_STEP_SUMMARY"
+            cat /tmp/pr-body.md >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          git commit -m "News desk draft for ${{ steps.vars.outputs.date }}"
+          git push -u origin "${{ steps.vars.outputs.branch }}"
+          gh pr create \
+            --title "News desk: ${{ steps.vars.outputs.weekday }}, ${{ steps.vars.outputs.date }}" \
+            --body-file /tmp/pr-body.md \
+            --base main \
+            --head "${{ steps.vars.outputs.branch }}"

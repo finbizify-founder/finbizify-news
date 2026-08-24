@@ -1,0 +1,21 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# The agent's run summary. The workflow reads it into the PR body and deletes it.
+PR_BODY.md
+
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.vercel
+.claude/settings.local.json
