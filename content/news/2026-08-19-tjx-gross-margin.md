@@ -24,12 +24,12 @@ increase in merchandise margin.
 **Concept:** gross margin
 
 Gross margin is what's left from a sale after the cost of the thing sold, written as a share of the
-sale. A company that pays less for the same item, or sells it for more, keeps a larger share. TJX
-puts buying and occupancy costs into that same line, so its version covers the cost of running
-stores and warehouses as well as the merchandise itself.
+sale. A company that pays less for the same item, or sells it for more, keeps a larger share.
+Companies differ in exactly which costs they put in that line, so the figure is most useful read
+against the same company's own earlier periods rather than across two different companies.
 
-**Why it matters:** two retailers can ring up the same sales and keep different amounts of them, so
-this figure often gets watched as a read on how well a company buys and prices what it sells.
+**Why it matters:** how much of each sales dollar a company keeps is a separate question from how
+much it sold. Worth asking of any retailer: did it sell more, keep more of each sale, or both?
 
 > **Review block**
 > - Figures used: net sales $15.2 billion, gross profit margin 33.4%, prior-year gross profit margin
@@ -38,6 +38,11 @@ this figure often gets watched as a read on how well a company buys and prices w
 > - Source: SEC Form 8-K exhibit 99.1, filed 2026-08-19
 > - Derived figures: none. The 2.7 percentage point year-over-year change is stated in the source and
 >   was left out rather than recalculated
+> - Unsourced claims: one, found in review and removed. The concept paragraph asserted that TJX
+>   includes buying and occupancy costs in this line. That is true of the company and the phrase
+>   appears nowhere in the cited exhibit. Replaced with a generic note that companies differ in what
+>   they include, which teaches the same caution without attributing an accounting treatment the
+>   source does not state
 > - Not used: comparable sales 4%, pretax profit margin, diluted earnings per share, divisional
 >   comparable sales, inventory, share repurchases and dividends, store counts
 > - Cut in edit: the raised full-year outlook and the plan to accelerate store openings, since both
