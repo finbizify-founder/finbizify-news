@@ -65,7 +65,7 @@ Share price movement is never the subject of an item.
 
 ## Setup
 
-1. Repo secret `ANTHROPIC_API_KEY`, created inside a dedicated Anthropic Console workspace with a hard
+1. Repo secret `NEWS_GENERATOR` (mapped to the `ANTHROPIC_API_KEY` env var in the workflows), created inside a dedicated Anthropic Console workspace with a hard
    monthly spend cap. Settings → Secrets and variables → Actions → **Secrets** tab.
 2. Settings → Actions → Workflow permissions → **Read and write**.
 3. Branch protection on `main` requiring a pull request, so approval is enforced rather than habitual.

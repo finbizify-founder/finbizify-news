@@ -58,7 +58,7 @@ jobs:
       - name: Draft the day's items
         env:
           # Step-scoped so no other step or third-party action can see the key.
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.NEWS_GENERATOR }}
           RUN_DATE: ${{ steps.vars.outputs.date }}
           RUN_WEEKDAY: ${{ steps.vars.outputs.weekday }}
           RUN_MODE: ${{ inputs.mode || 'auto' }}
