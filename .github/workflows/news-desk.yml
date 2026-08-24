@@ -93,6 +93,13 @@ jobs:
             echo "The run produced no summary. Check the workflow logs." > /tmp/pr-body.md
           fi
 
+          # Mirror the summary into the job summary immediately. If anything below fails, the
+          # agent's write-up survives the runner instead of dying with /tmp.
+          {
+            echo "### News desk run summary, ${{ steps.vars.outputs.date }}"
+            cat /tmp/pr-body.md
+          } >> "$GITHUB_STEP_SUMMARY"
+
           git add content sources data
           if git diff --cached --quiet; then
             echo "No content changes. Slow day, or the run bailed."

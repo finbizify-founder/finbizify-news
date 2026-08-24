@@ -114,6 +114,7 @@ worth publishing.
 > - Every figure used, listed
 > - Source: <type>, <date>, <url>
 > - Derived figures: none, or the calculation named explicitly
+> - Unsourced claims: none, or say what you cut
 > - Not used: figures present in the source that you chose to leave out
 > - Cut in edit: anything you drafted and removed, with the reason
 ```
@@ -125,6 +126,12 @@ worth publishing.
 Before finishing, re-read every drafted item against its archived source file and confirm:
 
 - Every number, date, and name appears in the archived source
+- **Every factual claim appears in the archived source, not only the figures.** Read the concept
+  paragraph sentence by sentence and confirm each assertion about the company is in the document. A
+  statement about how a company defines a line item, what it includes, or how it operates is a claim
+  and needs the same check a number does. Being true in the world is not the standard; being in the
+  cited source is. If you know it and the source does not say it, cut it or write the concept
+  generically without attributing it to that company
 - No forward-looking statement carries the concept (guidance is reportable, never the teaching point)
 - No absolute language, no negative parallelisms, no em dashes
 - No financial abbreviation without its full term
