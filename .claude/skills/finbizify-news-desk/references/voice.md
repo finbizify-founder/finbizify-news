@@ -89,3 +89,62 @@ not the same as same-business.
 
 When comparing, cite only what each company's own source says. Do not explain one company's numbers
 using another company's disclosure.
+
+## Numbers are evidence, not the point
+
+**The concept and its explanation are what the reader takes away. The figures are there so the claim
+can be checked.** Use the fewest numbers that make the point land. Two or three in an item is usually
+right; six is a sign the item is reporting rather than teaching.
+
+A reader who remembers the idea and forgets every figure got what the item was for.
+
+## Say which figure you used
+
+**Companies routinely report more than one number under nearly the same name.** Segment revenue and
+total revenue. Gross margin and adjusted gross margin. Earnings per share and adjusted earnings per
+share.
+
+Rules:
+
+1. **Prefer the figure the company leads with** in its own narrative, not the one buried in the
+   statements, unless there is a reason to do otherwise.
+2. **If you use a different one, name it** so a reader checking the source knows which line to find.
+3. **Any percentage must sit on the same base as the dollar figures in the same item.** Citing a
+   segment revenue number next to a percentage computed on total revenue is an error even when both
+   appear in the filing.
+
+Worked example. Cava's Q2 release headlines "CAVA Revenue grew 31.3% to $365.4 million," while its
+income statement shows total Revenue of $368,436 thousand. The general and administrative percentages
+the company reports are computed on the total. An item using the total is correct and must say so;
+an item pairing the segment figure with those percentages is wrong.
+
+## Name the brands a teenager knows
+
+A legal entity name is often not the name anyone recognizes. On first mention, give the brands:
+
+> TJX Companies, which runs T.J. Maxx, Marshalls, and HomeGoods, ...
+
+`data/universe-curated.csv` carries a `consumer_brands` column and is the authority. If a company is
+not listed there with brands, use the wording in the company's own release rather than recalling brand
+ownership from memory, since brands get bought and sold.
+
+## The teachability gate
+
+**The concept must be explainable to someone who has never seen a financial statement.**
+
+Before drafting, ask: can this be explained without first explaining what a line item is, where it
+sits, or how the statements fit together? If not, either find a different angle on the same event, or
+drop the item.
+
+Prefer concepts a teenager meets directly. Prices, traffic, what a store sells, what a company buys,
+how many locations it has, who owns what. Reach for balance-sheet and capital-structure ideas only
+when the event makes them concrete.
+
+Two from the first live run that show the line:
+
+- **Worked.** Costs at head office growing more slowly than sales. The idea survives without the
+  statements, though the item reached it through a general and administrative line, which made it
+  harder than it needed to be. A version built on what the company sells would have landed sooner.
+- **Too advanced as written.** A share repurchase authorization. It requires knowing what a share is,
+  what an authorization is, and that permission to spend is not spending. Reportable, but it needs a
+  much more grounded explanation than the concept line alone.

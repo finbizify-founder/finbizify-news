@@ -48,3 +48,14 @@ reachable only through their own investor-relations releases, or not at all.
 `data/universe-curated.csv` is hand-maintained and goes stale. Companies get acquired, taken private,
 and delisted. **Confirm the company is currently publicly traded and still filing with the SEC before
 you draft an item about it.** If a row is stale, drop the item and flag the row in the run summary.
+
+## The brands column
+
+`data/universe-curated.csv` has a `consumer_brands` column giving the names a teenager actually
+recognizes, where they differ from the legal entity name. TJX Companies runs T.J. Maxx, Marshalls, and
+HomeGoods. Yum Brands runs Taco Bell, KFC, and Pizza Hut.
+
+Name those on first mention. The column is founder-maintained and is the authority. Where it is blank,
+the company name is the recognizable name, or nobody has filled it in yet: in that case use the
+wording in the company's own release rather than recalling brand ownership from memory, because brands
+get bought and sold.
