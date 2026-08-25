@@ -81,18 +81,35 @@ jobs:
             --model claude-sonnet-5 \
             --allowedTools "Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch" \
             --max-turns 40 \
-            --output-format json > /tmp/claude-run.json || true
+            --output-format json > /tmp/claude-run.json
+          CLAUDE_EXIT=$?
 
-          # Always surface what the run cost. A billing alert is too late.
+          # Distinguish a genuine failure (bad key, no credit, hit max-turns) from a legitimate
+          # quiet day. `|| true` on the command above used to hide both behind a green check and
+          # "no content changes," which is wrong: a dead key must turn the job red, not read as
+          # Monday being slow. is_error/subtype come from `claude --output-format json`; the CLI
+          # emits that JSON body even for a failure it catches at the API level (e.g. no credit),
+          # so a near-instant run with a parseable, error-flagged result is the credit case, not
+          # a crash. A missing/unparseable file means it never got that far.
+          IS_ERROR=$(jq -r '.is_error // "unknown"' /tmp/claude-run.json 2>/dev/null || echo "unknown")
+          RESULT_TEXT=$(jq -r '.result // "(no result field)"' /tmp/claude-run.json 2>/dev/null || echo "(unparseable output)")
+
           {
             echo "### Run cost and usage"
             echo '```'
             jq -r 'to_entries
-                   | map(select(.key | test("cost|usage|duration|turns|error")))
+                   | map(select(.key | test("cost|usage|duration|turns|error|is_error|subtype")))
                    | .[] | "\(.key): \(.value)"' /tmp/claude-run.json \
-              2>/dev/null || echo "could not parse the run output"
+              2>/dev/null || echo "could not parse the run output; exit code was $CLAUDE_EXIT"
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
+
+          if [ "$CLAUDE_EXIT" != "0" ] || [ "$IS_ERROR" = "true" ]; then
+            echo "### This run failed, it did not just find nothing" >> "$GITHUB_STEP_SUMMARY"
+            echo "$RESULT_TEXT" >> "$GITHUB_STEP_SUMMARY"
+            echo "Check the Anthropic Console for credit balance before assuming the skill is broken." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
 
       - name: Open pull request
         env:
