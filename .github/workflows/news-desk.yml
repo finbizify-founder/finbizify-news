@@ -4,8 +4,12 @@ name: News desk
 # Note this is fixed UTC: when the US leaves daylight time in November this lands at 6:13am PT.
 # GitHub's cron runs late under load, sometimes 15+ minutes. Fine for a morning draft.
 on:
-  schedule:
-    - cron: "13 14 * * 1-5"
+  # Paused 2026-09-02: GitHub's own scheduler was firing this hours off its configured
+  # time (seen: 23:45, 23:31, 19:59, 17:47 UTC instead of 14:13), which also collided with
+  # manual runs on the same calendar day and burned credit on runs nobody reviewed.
+  # Manual trigger still works. Uncomment to resume unattended runs.
+  # schedule:
+  #   - cron: "13 14 * * 1-5"
   workflow_dispatch:
     inputs:
       mode:
