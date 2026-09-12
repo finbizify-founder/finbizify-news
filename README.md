@@ -1,12 +1,22 @@
 # finbizify-news
 
-Weekday news generator for the public page and the game app.
+An editorial pipeline that runs Claude Code inside GitHub Actions. Short, sourced news items about
+consumer-facing events at large public companies, each tied to one business concept.
 
-Short, sourced items about consumer-facing events at large public companies, each tied to one business
-concept. Publishes to `news.finbizify.com`.
+This is a FinBizify experiment. FinBizify teaches teenagers how real companies and real money work,
+in 15-minute lessons built on companies they already know ([finbizify.com](https://finbizify.com), free
+lessons at [learn.finbizify.com](https://learn.finbizify.com)). The items here are meant for
+`news.finbizify.com`, which isn't live yet, and for the app later.
 
-Decisions of record live in the vault at
-`02-product/news-content-daily-posts/2026-08-21-news-feed-decisions.md`.
+## Where it stands (September 2026)
+
+- 11 items and 1 weekly synthesis in `content/`, covering the weeks of 2026-08-17 and 2026-08-24.
+- Two workflow runs opened pull requests (#1 and #2). Both were reviewed and merged by hand.
+- The schedule is paused. GitHub's cron fired hours off its configured time, which collided with manual
+  runs and burned credit on drafts nobody reviewed. Runs are manual until that's sorted.
+- No site yet. Rendering is Phase 3.
+
+Design decisions live in an internal vault. The rules that matter are repeated below.
 
 ## The content unit
 
@@ -21,9 +31,12 @@ original work.
 
 ## How it runs
 
-GitHub Actions fires `news-desk.yml` at 7:13am PT on weekdays. It invokes Claude Code, which loads the
-`finbizify-news-desk` skill, drafts the day's items, archives each source, and opens a pull request.
-A human merges. Nothing publishes without that merge.
+`news-desk.yml` invokes Claude Code, which loads the `finbizify-news-desk` skill, drafts the day's
+items, archives each source, and opens a pull request. A human merges. Nothing publishes without that
+merge.
+
+The workflow was built to fire at 7:13am PT on weekdays. That trigger is commented out since
+2026-09-02 (see the note in the workflow file); every run is started by hand for now.
 
 | Day | Run type |
 |---|---|
@@ -57,8 +70,11 @@ own newsroom otherwise. Wire coverage may be used to discover a story and is nev
 **`sources/` is evidence, never content.** Excluded from the build, never rendered, never quoted at
 length. Storing a press release as an internal record is fine; republishing one is not.
 
-**No company name in a public URL slug.** Weekly dated slugs handle this structurally. See
-`06-compliance/ip-policy.md` in the vault.
+**No company name in a public URL slug.** Weekly dated slugs handle this structurally. A company name
+identifies the subject of an item and never names a page, feature, or product.
+
+Company names are used for identification and educational discussion only. FinBizify is independent
+and is not affiliated with, sponsored by, or endorsed by any company referenced.
 
 **No investment framing.** No buy, no sell, no price targets, no judging a company as an investment.
 Share price movement is never the subject of an item.
@@ -78,8 +94,6 @@ Share price movement is never the subject of an item.
   private. The skill verifies current listing status before drafting and flags stale rows in the PR.
 - `data/universe-sp500.csv`, `-sp400.csv`, and `-nasdaq100.csv` are not yet populated. The curated list
   carries the run until they are.
-- Workflow actions are pinned to major version tags rather than commit SHAs. Pin to SHAs before this
-  repo goes public.
 - No site yet. Rendering is Phase 3.
 
 ## Backfill
