@@ -1,0 +1,459 @@
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/812011/000081201126000048/a20260731pressrelease.htm
+FETCHED AT: 2026-11-03T19:39:52.562Z
+HTTP STATUS: 200
+
+--- extracted text below; evidence only, never rendered or republished ---
+EX-99.1
+ 2
+ a20260731pressrelease.htm
+ PRESS RELEASE, DATED SEPTEMBER 28, 2026
+ 
+ 
+ 
+ 
+ Document 
+ 
+ 
+
+ Exhibit 99.1 
+ 
+ Vail Resorts Contacts: 
+ Investor Relations: Connie Wang, InvestorRelations@vailresorts.com      
+ Media: Sara Olson, News@vailresorts.com 
+ Vail Resorts Reports Fourth Quarter and Full Year Fiscal 2026 Results and Provides Fiscal 2027 Outlook 
+     BROOMFIELD, Colo. - September 28, 2026 - Vail Resorts, Inc. (NYSE: MTN) today reported results for the fourth quarter and fiscal year ended July 31, 2026, reported season-to-date pass product sales and provided its outlook for the fiscal year ending July 31, 2027. 
+ Highlights 
+ • Net income attributable to Vail Resorts, Inc. was $147.5 million for fiscal 2026 compared to $280.0 million in the prior year. 
+ • Resort Reported EBITDA was $745.7 million for fiscal 2026 compared to $844.1 million in the prior year, which includes $11 million of one-time costs related to the previously announced resource efficiency transformation plan. 
+ • Pass product unit sales through September 18, 2026 for the upcoming 2026/2027 North American ski season decreased approximately 12%, days sold decreased approximately 10% and sales dollars, inclusive of sales and admissions taxes, decreased approximately 6%, as compared to the prior year period through September 19, 2025. 
+ • The Company provided its fiscal 2027 outlook, including net income attributable to Vail Resorts, Inc. of $158 million to $233 million and Resort Reported EBITDA of $805 million to $865 million, which includes an estimated $14 million of one-time costs. 
+ • The Company declared a quarterly cash dividend of $2.22 per share of Vail Resorts’ common stock that will be payable on October 27, 2026 to shareholders of record as of October 8, 2026. 
+ 
+ 
+
+ 
+ 
+
+ Commenting on the Company’s fiscal 2026 results, Rob Katz, Chief Executive Officer said, “This past winter was one of the most challenging winters in history across the western U.S. for the ski industry, which negatively impacted financial performance for the year. Conditions were particularly severe in the Rockies, where snowfall and snowpack were at or near historic lows and significantly below prior record-low seasons, resulting in the most difficult weather environment we have ever experienced. With that backdrop, this past year demonstrated the resilience of our business model and encouraging signs for the future. Our advanced commitment model and cost discipline provided considerable stability, and our investments in talent, technology and our resorts drove record guest satisfaction scores and strong employee engagement, which are critical measures of our success. 
+ “Looking back over the past year and a half, we have taken decisive action and accelerated the pace of change across our business, strengthening leadership, advancing growth initiatives, enhancing the guest experience, and improving operational efficiency. In addition to appointing a new CEO, we have brought on a new Chief Revenue Officer and a new independent board member with hospitality and operations expertise, with an ongoing search for a second director. We refreshed our marketing approach and increased our investment across media, channel strategies, branding and optimization of our products and pricing. We also announced our multi-year Epic Experience growth strategy to further differentiate the guest experience to drive increased guest engagement and loyalty, and the expansion of our resource efficiency transformation plan to deliver an additional $30 million of savings by fiscal 2028.” 
+ “While this past season had a challenging weather backdrop, we are encouraged by the early progress we are seeing across these strategies, including strong performance from our new product and pricing initiatives, lift ticket and pass sales trends that are outperforming the industry, increased brand awareness, and exceeding our original resource efficiency plan savings. Looking ahead, our Epic Experience strategy provides a clear roadmap for growth by placing the guest at the center of everything we do, in areas where we can drive clear competitive differentiation. By enhancing, personalizing and reducing friction at every stage of the guest journey, we see a significant opportunity to drive greater visitation, guest spending and loyalty through our differentiated resort network, marketing capabilities, and technology investments.” 
+ Fourth Quarter Operating Results 
+ • Resort Net Revenue increased $0.9 million, or 0.3%, compared to the prior year primarily driven by strong performance at Grand Teton Lodge Company, partially offset by unfavorable weather conditions in Australia. Australian results were below expectations, as cumulative snowfall in the region during the quarter was approximately 57% below the 10-year average, which pressured visitation and revenue, partially mitigated by the growth in Australian pass sales. North American summer demand was in line with expectations. 
+ 
+ 
+
+ 
+ 
+
+ • Resort Reported EBITDA increased $1.2 million, or 1.0%, compared to the prior year, primarily due to $8.1 million of CEO transition costs incurred in the prior year, disciplined cost management and $4 million lower one-time resource efficiency transformation costs, including $1 million of a timing shift into next year. These benefits were partially offset by weaker performance in Australia due to unfavorable weather conditions, typical cost inflation and increased marketing investments. 
+ Full Year Operating Results 
+ • Resort Net Revenue decreased $131.9 million, or 4.5%, compared to the prior year, primarily driven by unfavorable weather conditions that impacted visitation and revenue for both local and destination guests, particularly at the Rockies and Tahoe resorts. Compared to the prior year, total lift revenue declined 3.5%, despite visitation being down 13.4%, primarily as a result of pass revenue increasing 3.9% for the year. 
+ • Resort Reported EBITDA decreased $98.5 million, or 11.7%, compared to the prior year, which was primarily driven by weather-related headwinds, and were partially offset by disciplined cost management, $45 million of resource efficiency transformation cost savings, $16.7 million of reduced costs from company-wide performance based management incentive plan expense that were not earned, and $6.2 million favorable EBITDA impact from changes in foreign exchange rates relative to the prior year. These cost benefits were partially offset by an incremental $20 million in marketing investment to support growth in pass sales, lift ticket initiatives and branding. 
+ Season Pass Sales 
+ Pass product units sold through September 18, 2026 for the upcoming North American ski season decreased approximately 12%, days sold 1 decreased approximately 10% and sales dollars 2 , inclusive of sales and admissions taxes, decreased approximately 6%, as compared to the prior year period through September 19, 2025. Results through the Labor Day sales deadline were generally consistent with trends experienced during the spring selling period, when excluding auto-renew, as demand across the industry continued to be impacted by the effects of last season's historically challenging conditions. 
+ Results following the Spring deadline in May showed modest improvement in Colorado and Utah local markets, while weakness remains concentrated among Destination frequency products, especially lower frequency passes. Third-party data continues to show Vail Resorts outperforming the broader industry, especially amongst comparable unlimited products. The Company's recently introduced product and pricing initiatives have continued to generate encouraging results, with relative strength in unlimited pass products compared to lower-frequency product offerings driving improved mix and pricing performance. As unit declines remain concentrated among Destination frequency pass products, the Company believes these trends may reflect delayed purchase behavior among less committed guests rather than fully lost demand, creating an 
+ 
+ 
+
+ 
+ 
+
+ opportunity to recapture visitation through pass sales in the remainder of the selling season and/or lift ticket products during the season, especially given the Company’s ability to seamlessly and efficiently market broad-based and resort-specific season passes and lift tickets across all of its channels. 
+ 1 Days sold measures an estimate of how many days of access are sold, calculated by assigning a number of days to each pass unit and assumes a blended estimate of 8 days sold to unlimited passes and actual number of access days purchased for frequency products. 
+ 2 Pass product sales are adjusted to eliminate the impact of foreign currency by applying an exchange rate of $0.71 between the Canadian dollar and U.S. dollar in both periods for Whistler Blackcomb pass sales. 
+ Fiscal Year 2027 Guidance 
+ The Company is providing its initial guidance for the year ending July 31, 2027 and expects: 
+ • Net income attributable to Vail Resorts, Inc. of $158 million to $233 million. 
+ • Resort Reported EBITDA of $805 million to $865 million, including approximately $14 million of one-time costs. 
+ Fiscal 2027 guidance reflects a meaningful recovery from the weather-impacted fiscal 2026 season, supported by increased lift ticket visitation, pricing growth, increased guest spending across ancillary businesses and approximately $25 million of incremental efficiencies from the resource efficiency transformation plan. These benefits are expected to be partially offset by lower pass demand trends, the normalization of operating expenses, inflationary pressures, additional strategic investments to support future growth and approximately $14 million of one-time costs. 
+ At the midpoint, guidance implies an estimated Resort EBITDA margin of approximately 26.9%, or approximately 27.3% excluding one-time costs. 
+ Relative to the Company's original fiscal 2026 expectations issued in September 2025, fiscal 2027 guidance assumes visitation is modestly lower with overall lift revenue flat from pricing and product optimization efforts, along with increased marketing investments to drive visitation. As a result, ancillary revenue growth and savings from Resource Efficiency Transformation are not expected to fully offset inflationary pressures, resulting in a lower Resort EBITDA margin than originally expected for fiscal 2026. 
+ The guidance also assumes (1) a continuation of the current economic environment, (2) a range of normal weather conditions for the 2026/2027 North American and European ski season and the 2027 Australian ski seasons, and (3) foreign currency exchange rates as of September 25, 2026 noted below, and does not include any potential impacts related to future fluctuations in foreign currency exchange rates, which may be impacted by tariffs, trade disputes, or other factors. 
+ 
+ 
+
+ 
+ 
+
+ The following table reflects the forecasted guidance range for the Company's fiscal year ending July 31, 2027 for Total Reported EBITDA and reconciles net income attributable to Vail Resorts, Inc. guidance to such Total Reported EBITDA guidance. 
+ 
+ Fiscal 2027 Guidance 
+ (In thousands) 
+ For the Year Ending 
+ July 31, 2027 (6) 
+ 
+ Low End High End 
+ Range Range 
+ Net income attributable to Vail Resorts, Inc. $ 158,000  $ 233,000  
+ Net income attributable to noncontrolling interests 26,000  22,000  
+ Net income 184,000  255,000  
+ Provision for income taxes (1) 
+ 61,000  84,000  
+ Income before income taxes 245,000  339,000  
+ Depreciation and amortization 311,000  298,000  
+ Interest expense, net 212,000  204,000  
+ Other (2) 
+ 27,000  20,000  
+ Total Reported EBITDA $ 795,000  $ 861,000  
+ 
+ Mountain Reported EBITDA (3) 
+ $ 789,000  $ 843,000  
+ Lodging Reported EBITDA (4) 
+ 14,000  24,000  
+ Resort Reported EBITDA (5) 
+ 805,000  865,000  
+ Real Estate Reported EBITDA (10,000) (4,000) 
+ Total Reported EBITDA $ 795,000  $ 861,000  
+ 
+ (1) The provision for income taxes may be impacted by excess tax benefits primarily resulting from vesting and exercises of equity awards. Our estimated provision for income taxes does not include the impact, if any, of unknown future exercises of employee equity awards, which could have a material impact given that a significant portion of our awards may be in-the-money depending on the current value of the stock price. 
+ 
+ (2) Our guidance includes certain forward-looking known changes in the fair value of the contingent consideration based solely on the passage of time and resulting impact on present value. Guidance excludes any forward-looking change based upon, among other things, financial projections, including long-term growth rates for Park City, as such changes may be material. 
+ 
+ (3) Mountain Reported EBITDA also includes approximately $28 million of stock-based compensation. 
+ 
+ (4) Lodging Reported EBITDA also includes approximately $4 million of stock-based compensation. 
+ 
+ (5) The Company provides Reported EBITDA ranges for the Mountain and Lodging segments, as well as for the two combined. The low and high of the expected ranges provided for the Mountain and Lodging segments, while possible, do not sum to the high or low end of the Resort Reported EBITDA range provided because we do not expect or assume that we will hit the low or high end of both ranges. 
+ 
+ (6) Guidance estimates are predicated on an exchange rate of $0.71 between the Canadian dollar and U.S. dollar, related to the operations of Whistler Blackcomb in Canada; an exchange rate of $0.70 between the Australian dollar and U.S. dollar, related to the operations of our Australian ski areas; and an exchange rate of $1.21 between the Swiss franc and U.S. dollar, related to the operations of Andermatt-Sedrun and Crans-Montana in Switzerland. 
+ 
+
+ Resource Efficiency Transformation Plan 
+ The Company’s multi-year Resource Efficiency Transformation Plan remains on track. The Company expects to deliver approximately $25 million of incremental efficiencies in fiscal year 2027, excluding one-time costs, resulting in approximately $110 million of annualized cost efficiencies by the end of fiscal year 2027. The updated fiscal year 2027 outlook reflects the accelerated realization of $5 million from the next phase of its resource efficiency transformation plan due to certain technology transformation initiatives that were previously expected to benefit fiscal 2028, with an additional $25 million of savings in fiscal year 2028 that includes a portion of capital savings. The Company incurred approximately $11 million of 
+ 
+ 
+
+ 
+ 
+
+ associated one-time costs in fiscal 2026 and expects to incur approximately $14 million in associated one-time costs in fiscal 2027. 
+ Liquidity and Return of Capital 
+ Despite difficult conditions in fiscal year 2026, the Company remains confident in its long-term cash flow generation strength and its stable business model. 
+ • As of July 31, 2026, the Company's total liquidity as measured by total cash plus highly liquid short-term investments and revolver availability was approximately $0.8 billion. 
+ • Net Debt was 3.9 times trailing twelve months Total Reported EBITDA as of July 31, 2026. 
+ • The Board of Directors declared a quarterly cash dividend of $2.22 per share of Vail Resorts' common stock that will be payable on October 27, 2026 to shareholders of record as of October 8, 2026. 
+ • The Company reaffirmed its calendar 2026 capital plan of approximately $215 million to $220 million in core capital, consistent with its long-term capital investment guidance. Including growth capital investments, at the Company’s European resorts and in support of Resource Efficiency Transformation and real estate planning projects, the Company plans to invest a total of approximately $229 million to $234 million in calendar year 2026. 
+ • Regarding calendar year 2027 capital expenditures, the Company is pleased to highlight select planned investments, including two significant lift upgrades at Park City Mountain. The Company plans to replace Silverlode with its first eight-passenger detachable chairlift in the United States, increasing uphill capacity and improving circulation and reliability at a critical on-mountain hub. The Company also plans to replace the existing Eagle and Eaglet fixed-grip lifts with a six-passenger detachable chairlift featuring a revised alignment and mid-station unload, significantly increasing out-of-base capacity and improving guest access, distribution and beginner progression. The Company also plans to complete a full retrofit of the Crescent Lift in Park City to further minimize lift downtime during the season. Together, these three lift upgrades, in addition to the Sunrise Gondola implemented last season and the new Canyons Village Skyway Gondola and base area parking structure, which will be ready for this upcoming season, represent a transformative impact on the uphill capacity for the entire resort and guest experience. The Company expects to provide its full calendar year 2027 capital investment plan in December 2026. The core capital plan is expected to remain consistent with the Company’s long-term capital framework, adjusted for inflation, including tariffs, and any incremental capital commitments associated with the updated Grand Teton Lodge Company contract. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Earnings Conference Call 
+ The Company will conduct a conference call today at 5:00 p.m. Eastern time to discuss the financial results. The call will be webcast and can be accessed at investors.vailresorts.com, or dial (800) 225-9448 (U.S. and Canada) or +1 (203) 518-9708 (international). The conference ID is MTNQ426. A replay of the conference call will be available two hours following the conclusion of the conference call through October 5, 2026, at 11:59 p.m. Eastern time. To access the replay, dial (800) 753-0348 (U.S. and Canada) or +1 (402) 220-2672 (international). The conference call will also be archived at https://investors.vailresorts.com. 
+ About Vail Resorts, Inc. (NYSE: MTN) 
+ Vail Resorts is a network of the best destination and close-to-home ski resorts in the world including Vail Mountain, Breckenridge, Park City Mountain, Whistler Blackcomb, Stowe, and 32 additional resorts across North America; Andermatt-Sedrun and Crans-Montana Mountain Resort in Switzerland; and Perisher, Hotham, and Falls Creek in Australia – all available on the company's industry-changing Epic Pass. We are passionate about providing an Experience of a Lifetime to our team members and guests, and our EpicPromise is to reach a zero net operating footprint by 2030, support our employees and communities, and broaden engagement in our sport. Our company owns and/or manages a collection of elegant hotels under the RockResorts brand, a portfolio of vacation rentals, condominiums and branded hotels located in close proximity to our mountain destinations, as well as the Grand Teton Lodge Company in Jackson Hole, Wyo. Vail Resorts Retail operates more than 240 retail and rental locations across North America. Learn more about our company at www.VailResorts.com, or discover our resorts and Pass options at www.EpicPass.com. 
+ Forward-Looking Statements 
+ Certain statements discussed in this press release and on the conference call, other than statements of historical information, are forward-looking statements within the meaning of the federal securities laws, including the statements regarding expected fiscal years 2027 and 2028 and calendar years 2026 and 2027 performance and the assumptions related thereto, including, but not limited to, our expected net income and Resort Reported EBITDA; our expectations regarding our liquidity; our expectations related to our pass and lift ticket products and initiatives; capital investment projects; our calendar year 2026 and 2027 capital plans; our expectations and anticipated benefits of our capital structure; our expectations related to our key initiatives and strategies; our anticipated drivers of visitation and value creation; and our expectations regarding our Resource Efficiency Transformation plan. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. All forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those projected. Such risks and uncertainties include but are not limited to risks related to a prolonged weakness in general economic conditions, including adverse effects on the overall travel and 
+ 
+ 
+
+ 
+ 
+
+ leisure related industries and our business and results of operations; risks associated with the effects of high or prolonged inflation, elevated interest rates and financial institution disruptions; unfavorable weather conditions or the impact of climate change, natural disasters or other events; the ultimate amount of refunds that we could be required to refund to our pass product holders for qualifying circumstances under our Epic Coverage program; the willingness or ability of our guests to travel due to terrorism, the uncertainty of military conflicts or public health emergencies, and the cost and availability of travel options and changing consumer preferences, discretionary spending habits; risks related to travel and airline disruptions, and other adverse impacts on the ability of our guests to travel; risks related to interruptions or disruptions of our information technology systems, data security or cyberattacks; risks related to our reliance on information technology, including our failure to maintain the integrity of our customer or employee data and our ability to adapt to technological developments or industry trends; our ability to acquire, develop and implement relevant technology offerings for customers and partners; the seasonality of our business combined with adverse events that may occur during our peak operating periods; competition in our mountain and lodging businesses or with other recreational and leisure activities; risks related to the high fixed cost structure of our business; our ability to fund resort capital expenditures, or accurately identify the need for, or anticipate the timing of certain capital expenditures; risks related to a disruption in our water supply that would impact our snowmaking capabilities and operations; our reliance on government permits or approvals for our use of public land or to make operational and capital improvements; risks related to resource efficiency transformation initiatives; risks related to federal, state, local and foreign government laws, rules and regulations, including environmental and health and safety laws and regulations; risks related to changes in security and privacy laws and regulations which could increase our operating costs and adversely affect our ability to market our products, properties and services effectively; potential failure to adapt to technological developments or industry trends regarding information technology; our ability to successfully launch and promote adoption of new products, technology, services and programs; risks related to our workforce, including increased labor costs, loss of key personnel and our ability to maintain adequate staffing, including hiring and retaining a sufficient seasonal workforce; our ability to successfully integrate acquired businesses, including their integration into our internal controls and infrastructure; our ability to successfully navigate new markets, including Europe, or that acquired businesses may fail to perform in accordance with expectations; a deterioration in the quality or reputation of our brands, including our ability to protect our intellectual property and the risk of accidents at our mountain resorts; risks related to scrutiny and changing expectations regarding our sustainability practices and reporting; risks associated with international operations, including fluctuations in foreign currency exchange rates where the Company has foreign currency exposure, primarily the Canadian and Australian dollars and the Swiss franc, as compared to the U.S. dollar; changes in tax laws, regulations or interpretations, or adverse determinations by taxing authorities; risks related to our indebtedness and our ability to satisfy our debt service requirements under our outstanding debt including our unsecured senior notes, which could reduce our ability to use our cash flow to fund our operations, capital expenditures, future business 
+ 
+ 
+
+ 
+ 
+
+ opportunities and other purposes; a materially adverse change in our financial condition; adverse consequences of current or future litigation and legal claims; changes in accounting judgments and estimates, accounting principles, policies or guidelines; the impact of stockholder activism and a potential proxy contest; and other risks detailed in the Company’s filings with the Securities and Exchange Commission, including the “Risk Factors” section of the Company’s most recently filed Annual Report on Form 10-K and quarterly reports on Form 10-Q. 
+ All forward-looking statements attributable to us or any persons acting on our behalf are expressly qualified in their entirety by these cautionary statements. All guidance and forward-looking statements in this press release are made as of the date hereof and we do not undertake any obligation to update any forecast or forward-looking statements whether as a result of new information, future events or otherwise, except as may be required by law. 
+ Statement Concerning Non-GAAP Financial Measures 
+ When reporting financial results, we use the terms Resort Reported EBITDA, Total Reported EBITDA, Resort EBITDA Margin, Net Debt and Net Real Estate Cash Flow, which are not financial measures under accounting principles generally accepted in the United States of America (“GAAP”). Resort Reported EBITDA, Total Reported EBITDA, Resort EBITDA Margin, Net Debt and Net Real Estate Cash Flow should not be considered in isolation or as an alternative to, or substitute for, measures of financial performance or liquidity prepared in accordance with GAAP. In addition, we report segment Reported EBITDA (i.e., Mountain, Lodging and Real Estate), the measure of segment profit or loss required to be disclosed in accordance with GAAP. Accordingly, these measures may not be comparable to similarly-titled measures of other companies. Additionally, with respect to discussion of impacts from currency, the Company calculates the impact by applying current period foreign exchange rates to the prior period results, as the Company believes that comparing financial information using comparable foreign exchange rates is a more objective and useful measure of changes in operating performance. 
+ Reported EBITDA (and its counterpart for each of our segments) has been presented herein as a measure of the Company’s performance. The Company believes that Reported EBITDA is an indicative measurement of the Company’s operating performance and is similar to performance metrics generally used by investors to evaluate other companies in the resort and lodging industries. The Company defines Resort EBITDA Margin as Resort Reported EBITDA divided by Resort net revenue. The Company believes Resort EBITDA Margin is an important measurement of operating performance. The Company believes that Net Debt is an important measurement of liquidity as it is an indicator of the Company’s ability to obtain additional capital resources for its future cash needs. Additionally, the Company believes Net Real Estate Cash Flow is important as a cash flow indicator for its Real Estate segment. See the tables provided in this release for reconciliations of our measures of segment profitability and non-GAAP financial measures to the most directly comparable GAAP financial measures. 
+ 
+ 
+
+ 
+ 
+ 
+
+ Vail Resorts, Inc. 
+ Consolidated Condensed Statements of Operations 
+ (In thousands, except per share amounts) 
+ (Unaudited) 
+ 
+ Three Months Ended 
+July 31, Twelve Months Ended 
+July 31, 
+ 2026 2025 (1) 
+ 2026 2025 
+ Net revenue: 
+ Mountain and Lodging services and other $ 206,730  $ 205,738  $ 2,367,221  $ 2,464,910  
+ Mountain and Lodging retail and dining 65,349  65,465  464,790  499,002  
+ Resort net revenue 272,079  271,203  2,832,011  2,963,912  
+ Real Estate 5,989  86  6,193  435  
+ Total net revenue 278,068  271,289  2,838,204  2,964,347  
+ Segment operating expense: 
+ Mountain and Lodging operating expense 270,982  262,983  1,485,203  1,507,993  
+ Mountain and Lodging retail and dining cost of products sold 24,489  25,824  167,960  181,988  
+ General and administrative 99,405  106,306  434,006  433,714  
+ Resort operating expense 394,876  395,113  2,087,169  2,123,695  
+ Real Estate operating expense 7,217  1,302  11,985  6,213  
+ Total segment operating expense 402,093  396,415  2,099,154  2,129,908  
+ Other operating (expense) income: 
+ Depreciation and amortization (80,924) (74,474) (305,610) (296,437) 
+ Gain on sale of real property 1,705  —  13,163  24,404  
+ Change in fair value of contingent consideration (4,800) (5,300) (19,239) (9,379) 
+  (Loss) gain on disposal of fixed assets and other, net (770) 3,902  (6,823) 6,933  
+ (Loss) income from operations (208,814) (200,998) 420,541  559,960  
+ Interest expense, net (53,542) (44,256) (205,623) (171,628) 
+ Mountain equity investment income, net 440  357  829  3,919  
+ Investment income and other, net 1,961  1,458  11,129  10,126  
+ Foreign currency (loss) gain on intercompany loans (4) (33) 80  20  
+ (Loss) income before benefit from (provision for) income taxes (259,959) (243,472) 226,956  402,397  
+ Benefit from (provision for) income taxes 61,091  53,664  (56,212) (104,421) 
+ Net (loss) income (198,868) (189,808) 170,744  297,976  
+ Net loss (income) attributable to noncontrolling interests 8,713  7,447  (23,209) (17,972) 
+ Net (loss) income attributable to Vail Resorts, Inc. $ (190,155) $ (182,361) $ 147,535  $ 280,004  
+ Per share amounts : 
+ 
+ Basic net (loss) income per share attributable to Vail Resorts, Inc. $ (5.34) $ (4.99) $ 4.13  $ 7.54  
+ Diluted net (loss) income per share attributable to Vail Resorts, Inc. $ (5.34) $ (4.99) $ 4.12  $ 7.53  
+ Cash dividends declared per share $ 2.22  $ 2.22  $ 8.88  $ 8.88  
+ Weighted average shares outstanding: 
+ Basic 35,634  36,524  35,733  37,155  
+ Diluted 35,634  36,524  35,792  37,204  
+ 
+ 
+ 
+ (1) Reflects the impact of immaterial revisions to the financial statements 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Vail Resorts, Inc. 
+ Consolidated Condensed Statements of Operations - Other Data 
+ (In thousands) 
+ (Unaudited) 
+ 
+ 
+ 
+ Three Months Ended 
+July 31, Twelve Months Ended 
+July 31, 
+ 2026 2025 2026 2025 
+ 
+ Other Data: 
+ Mountain Reported EBITDA $ (129,842) $ (127,650) $ 729,352  $ 821,341  
+ Lodging Reported EBITDA 7,485  4,097  16,319  22,795  
+ Resort Reported EBITDA (122,357) (123,553) 745,671  844,136  
+ Real Estate Reported EBITDA 477  (1,216) 7,371  18,626  
+ Total Reported EBITDA $ (121,880) $ (124,769) $ 753,042  $ 862,762  
+ Mountain stock-based compensation $ 6,596  $ 11,208  $ 24,629  $ 29,632  
+ Lodging stock-based compensation 863  1,439  3,296  4,004  
+ Resort stock-based compensation 7,459  12,647  27,925  33,636  
+ Real Estate stock-based compensation 60  130  239  326  
+ Total stock-based compensation $ 7,519  $ 12,777  $ 28,164  $ 33,962  
+
+ 
+ 
+ Vail Resorts, Inc. 
+ Mountain Segment Operating Results 
+ (In thousands, except ETP) 
+ (Unaudited) 
+   
+ 
+ Three Months Ended 
+July 31, Percentage
+Increase Twelve Months Ended 
+July 31, Percentage
+Increase 
+ 2026 2025 (Decrease) 2026 2025 (Decrease) 
+ Net Mountain revenue: 
+ Lift $ 46,120  $ 47,587  (3.1) % $ 1,451,068  $ 1,503,187  (3.5) % 
+ Ski school 7,781  9,772  (20.4) % 278,050  309,863  (10.3) % 
+ Dining 18,964  18,393  3.1  % 222,518  240,900  (7.6) % 
+ Retail/rental 21,760  24,087  (9.7) % 282,774  302,450  (6.5) % 
+ Other 81,238  81,095  0.2  % 268,774  273,473  (1.7) % 
+ Total Mountain net revenue 175,863  180,934  (2.8) % 2,503,184  2,629,873  (4.8) % 
+ Mountain operating expense: 
+ Labor and labor-related benefits 122,265  121,592  0.6  % 736,375  760,955  (3.2) % 
+ Retail cost of sales 8,993  11,168  (19.5) % 87,844  97,289  (9.7) % 
+ Resort related fees 5,453  4,500  21.2  % 112,238  111,830  0.4  % 
+ General and administrative 86,798  91,816  (5.5) % 379,076  373,404  1.5  % 
+ Other 82,636  79,865  3.5  % 459,128  468,973  (2.1) % 
+ Total Mountain operating expense 306,145  308,941  (0.9) % 1,774,661  1,812,451  (2.1) % 
+ Mountain equity investment income, net 440  357  23.2  % 829  3,919  (78.8) % 
+ Mountain Reported EBITDA $ (129,842) $ (127,650) (1.7) % $ 729,352  $ 821,341  (11.2) % 
+ 
+ Total skier visits 502  753  (33.3) % 15,299  17,665  (13.4) % 
+ ETP $ 91.87  $ 63.20  45.4  % $ 94.85  $ 85.09  11.5  % 
+
+ 
+ 
+
+ 
+ 
+
+ Vail Resorts, Inc. 
+ Lodging Operating Results 
+ (In thousands, except ADR and Revenue per Available Room (“RevPAR”)) 
+ (Unaudited) 
+   
+ 
+ Three Months Ended 
+July 31, Percentage
+Increase Twelve Months Ended 
+July 31, Percentage
+Increase 
+ 2026 2025 (Decrease) 2026 2025 (Decrease) 
+ Lodging net revenue: 
+ Owned hotel rooms $ 33,927  $ 31,566  7.5  % $ 87,976  $ 88,184  (0.2) % 
+ Managed condominium rooms 9,541  10,112  (5.6) % 73,665  81,525  (9.6) % 
+ Dining 18,636  17,798  4.7  % 65,213  66,374  (1.7) % 
+ Transportation 1,022  1,069  (4.4) % 12,435  14,853  (16.3) % 
+ Golf 8,620  7,877  9.4  % 17,088  16,008  6.7  % 
+ Other 19,410  18,696  3.8  % 54,071  52,805  2.4  % 
+ 91,156  87,118  4.6  % 310,448  319,749  (2.9) % 
+ Payroll cost reimbursements 5,060  3,151  60.6  % 18,379  14,290  28.6  % 
+ Total Lodging net revenue 96,216  90,269  6.6  % 328,827  334,039  (1.6) % 
+ Lodging operating expense: 
+ Labor and labor-related benefits 37,444  37,196  0.7  % 134,431  138,041  (2.6) % 
+ General and administrative 12,607  14,490  (13.0) % 54,930  60,310  (8.9) % 
+ Other 33,620  31,335  7.3  % 104,768  98,603  6.3  % 
+ 83,671  83,021  0.8  % 294,129  296,954  (1.0) % 
+ Reimbursed payroll costs 5,060  3,151  60.6  % 18,379  14,290  28.6  % 
+ Total Lodging operating expense 88,731  86,172  3.0  % 312,508  311,244  0.4  % 
+ Lodging Reported EBITDA $ 7,485  $ 4,097  82.7  % $ 16,319  $ 22,795  (28.4) % 
+ 
+ Owned hotel statistics: 
+ ADR $ 340.21  $ 331.06  2.8  % $ 324.58  $ 325.65  (0.3) % 
+ RevPAR $ 200.62  $ 185.37  8.2  % $ 169.04  $ 170.70  (1.0) % 
+ Managed condominium statistics: 
+ ADR $ 240.80  $ 261.91  (8.1) % $ 393.60  $ 413.47  (4.8) % 
+ RevPAR $ 47.27  $ 48.62  (2.8) % $ 105.39  $ 116.70  (9.7) % 
+ Owned hotel and managed condominium statistics (combined): 
+ ADR $ 299.99  $ 302.75  (0.9) % $ 363.81  $ 376.95  (3.5) % 
+ RevPAR $ 97.71  $ 93.00  5.1  % $ 123.25  $ 131.55  (6.3) % 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Key Balance Sheet Data 
+ (In thousands) 
+ (Unaudited) 
+   
+ As of July 31, 
+ 2026 2025 
+ Total Vail Resorts, Inc. stockholders’ equity $ 240,527  $ 424,499  
+ Long-term debt, net 3,102,460  2,594,765  
+ Long-term debt due within one year 83,908  599,509  
+ Total debt 3,186,368  3,194,274  
+ Less: cash and cash equivalents 231,349  440,290  
+ Less: short-term certificates of deposit 37,112  —  
+ Net debt $ 2,917,907  $ 2,753,984  
+
+ 
+ 
+ Reconciliation of Measures of Segment Profitability and Non-GAAP Financial Measures 
+ 
+ 
+ Presented below is a reconciliation of net (loss) income attributable to Vail Resorts, Inc. to Total Reported EBITDA for the three and twelve months ended July 31, 2026 and 2025. 
+ 
+ (In thousands)
+(Unaudited) (In thousands)
+(Unaudited) 
+ Three Months Ended July 31, Twelve Months Ended July 31, 
+ 2026 2025 (2) 
+ 2026 2025 
+ Net (loss) income attributable to Vail Resorts, Inc. $ (190,155) $ (182,361) $ 147,535  $ 280,004  
+ Net (loss) income attributable to noncontrolling interests (8,713) (7,447) 23,209  17,972  
+ Net (loss) income (198,868) (189,808) 170,744  297,976  
+ (Benefit from) provision for income taxes (61,091) (53,664) 56,212  104,421  
+ (Loss) income before (benefit from) provision for income taxes (259,959) (243,472) 226,956  402,397  
+ Depreciation and amortization 80,924  74,474  305,610  296,437  
+ Loss (gain) on disposal of fixed assets and other, net 770  (3,902) 6,823  (6,933) 
+ Change in fair value of contingent consideration 4,800  5,300  19,239  9,379  
+ Investment income and other, net (1,961) (1,458) (11,129) (10,126) 
+ Foreign currency loss (gain) on intercompany loans 4  33  (80) (20) 
+ Interest expense, net 53,542  44,256  205,623  171,628  
+ Total Reported EBITDA $ (121,880) $ (124,769) $ 753,042  $ 862,762  
+ 
+ Mountain Reported EBITDA $ (129,842) $ (127,650) $ 729,352  $ 821,341  
+ Lodging Reported EBITDA 7,485  4,097  16,319  22,795  
+ Resort Reported EBITDA (1) 
+ (122,357) (123,553) $ 745,671  $ 844,136  
+ Real Estate Reported EBITDA 477  (1,216) 7,371  18,626  
+ Total Reported EBITDA $ (121,880) $ (124,769) $ 753,042  $ 862,762  
+ 
+ (1) Resort represents the sum of Mountain and Lodging 
+ 
+ (2) Reflects the impact of immaterial revisions to the financial statements 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ The following table reconciles long-term debt, net to Net Debt and the calculation of Net Debt to Total Reported EBITDA for the twelve months ended July 31, 2026. 
+ 
+ (In thousands)
+(Unaudited)
+(As of July 31, 2026) 
+ Long-term debt, net $ 3,102,460  
+ Long-term debt due within one year 83,908  
+ Total debt 3,186,368  
+ Less: cash and cash equivalents 231,349  
+ Less: Short-term certificates of deposit 37,112  
+ Net debt $ 2,917,907  
+ 
+ Net debt to Total Reported EBITDA 3.9 x 
+
+ The following table reconciles Real Estate Reported EBITDA to Net Real Estate Cash Flow for the three and twelve months ended July 31, 2026 and 2025. 
+ 
+ (In thousands)
+(Unaudited)
+Three Months Ended
+July 31, (In thousands)
+(Unaudited)
+Twelve Months Ended
+July 31, 
+ 2026 2025 2026 2025 
+ Real Estate Reported EBITDA $ 477  $ (1,216) $ 7,371  $ 18,626  
+ Non-cash Real Estate cost of sales —  —  —  (5,737) 
+ Non-cash Real Estate stock-based compensation 60  130  239  326  
+ 
+ Change in real estate deposits and recovery of previously incurred project costs/land basis less investments in real estate 5,746  (6,809) (5,164) 44  
+ Net Real Estate Cash Flow $ 6,283  $ (7,895) $ 2,446  $ 13,259  
+
+ 
+ 
+ The following table reconciles Resort net revenue to Resort EBITDA Margin for the year ended July 31, 2026 and fiscal 2027 guidance. 
+ 
+ (In thousands)
+(Unaudited) (In thousands)
+(Unaudited) 
+ Twelve Months Ended 
+July 31, 2026 Fiscal 2027 Guidance (2) 
+ 
+ Resort net revenue (1) 
+ $ 2,832,011  $ 3,108,000  
+ Resort Reported EBITDA (1) 
+ $ 745,671  $ 835,000  
+ Resort EBITDA margin (1) 
+ 26.3  % 26.9  % 
+ 
+ (1) Resort represents the sum of Mountain and Lodging 
+ 
+ (2) Represents the mid-point of Guidance
