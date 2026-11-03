@@ -1,0 +1,4249 @@
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/1636519/000119312526434274/d178604dex991.htm
+FETCHED AT: 2026-11-03T19:40:50.727Z
+HTTP STATUS: 200
+
+--- extracted text below; evidence only, never rendered or republished ---
+EX-99.1
+ 9
+ d178604dex991.htm
+ EX-99.1
+ 
+ 
+ EX-99.1 
+ 
+ 
+
+ 
+ Exhibit 99.1 
+
+ MSG KNICKERBOCKERS CORP. 
+
+ (FORMERLY MADISON SQUARE GARDEN SPORTS CORP.) 
+
+ UNAUDITED PRO FORMA CONSOLIDATED FINANCIAL INFORMATION 
+
+ (Dollars in thousands) 
+ On
+October 26, 2026, MSG Knickerbockers Corp., formerly Madison Square Garden Sports Corp. (the “Registrant”), distributed all of the outstanding common stock of MSG Rangers Corp., formerly MSGS Spinco, Inc. (“MSGR”), to
+its stockholders (the “Distribution”). The Registrant contributed to MSGR the Registrant’s subsidiaries that hold all of the interests in the New York Rangers business previously owned and operated by the Registrant. Subsequent to
+the Distribution, the Registrant will no longer consolidate the financial results of MSGR for the purpose of its own financial reporting. MSGR is now a New York Stock Exchange listed public company under the symbol “MSGR.” After the date
+of the Distribution, the historical financial results of MSGR will be reflected in the Registrant’s consolidated financial statements as discontinued operations under U.S. generally accepted accounting principles (“GAAP”) for all
+periods presented through the Distribution date, effective with the filing with the U.S. Securities and Exchange Commission (the “SEC”) of the Registrant’s Quarterly Report on Form 10-Q for
+the quarterly period ended December 31, 2026. 
+ The accompanying unaudited pro forma consolidated financial information reflects
+certain known impacts of the Distribution and the separation of MSGR from the Registrant. The unaudited pro forma consolidated statements of operations present MSGR as discontinued operations for the years ended June 30, 2026, 2025 and 2024,
+respectively, in a manner consistent with Financial Accounting Standards Board Accounting Standards Codification (“ASC”) 205-20, Discontinued Operations , as if the Distribution occurred on
+July 1, 2023. In addition, the unaudited pro forma consolidated statements of operations for the year ended June 30, 2026 reflect certain adjustments that are incremental to those related to the Distribution discussed above, as if the
+other transactions described herein occurred on July 1, 2025. The unaudited pro forma consolidated balance sheet as of June 30, 2026 reflects adjustments related to the Distribution, as well as certain adjustments that are incremental to
+those related to the Distribution discussed above, as if the other transactions described herein occurred on June 30, 2026. All adjustments shown on the unaudited pro forma consolidated financial information are transaction accounting
+adjustments. 
+ The unaudited pro forma consolidated financial information has been derived from the Registrant’s historical
+consolidated financial statements and reflects certain assumptions and adjustments that management believes are reasonable under the circumstances and given the information available at this time. This unaudited pro forma consolidated financial
+information reflects other adjustments that, in the opinion of management, are necessary to state fairly the pro forma financial position and results of the operations as of and for the periods indicated. The unaudited pro forma consolidated
+financial information is provided for illustrative and informational purposes only and is not intended to represent or be indicative of what the Registrant’s financial condition or results of operations would have been had the Registrant
+operated historically as an independent organization from MSGR or if the Distribution had occurred on the dates indicated. The unaudited pro forma consolidated financial information also should not be considered representative of the
+Registrant’s future consolidated financial position or consolidated results of operations. The unaudited pro forma consolidated financial information should be read in conjunction with the Registrant’s historical consolidated financial
+statements and accompanying notes. 
+ The unaudited pro forma consolidated financial information has been prepared in accordance with
+Regulation S-X Article 11, Pro Forma Financial Information . 
+ The following is a brief
+description of the amounts recorded under each of the column headings in the accompanying unaudited pro forma consolidated financial information: 
+
+ Historical 
+ This column represents the
+Registrant’s historical financial position as of June 30, 2026 and historical results of operations for the years ended June 30, 2026, 2025 and 2024 prior to any adjustments for the Distribution and pro forma adjustments described
+under the headings “Distribution of MSGR” and “Transaction Accounting Adjustments” below. 
+ Distribution of MSGR 
+
+ This column represents the elimination of the historical assets and liabilities and results of operations of MSGR from the Registrant’s
+historical consolidated balance sheet as of June 30, 2026 and statements of operations for the years ended June 30, 2026, 2025, and 2024, respectively. Amounts in this column for the statement of operations for the year ended June 30,
+2026 also include transaction costs directly attributable to the Distribution. Amounts in this column will be reflected in the Registrant’s consolidated financial statements as discontinued operations in the Registrant’s filings with the
+SEC subsequent to the Distribution. 
+
+ 
+
+ 
+
+ 
+
+ 
+ Pro Forma Continuing Operations 
+
+ This column represents the Registrant’s historical results of operations after the adjustments made to reflect the transactions
+associated with the Distribution that qualify as discontinued operations under GAAP. Note that amounts in this column include certain general corporate overhead costs that do not meet the criteria for discontinued operations presentation and thus
+will be presented in future filings as part of the Registrant’s continuing operations. However, the Registrant expects that a significant portion of these expenses will no longer be incurred by the Registrant subsequent to the Distribution.
+
+ Transaction Accounting Adjustments 
+
+ This column represents the impacts of the Distribution and related transactions based on available information and assumptions that the
+Registrant’s management believes are reasonable. The Transaction Accounting Adjustments represent the Registrant’s current best estimates and may differ materially from those that will be calculated to report MSGR as discontinued
+operations in the Registrant’s future filings. 
+
+ 
+ 2 
+
+ 
+
+ 
+
+ 
+
+ 
+ MSG KNICKERBOCKERS CORP. 
+
+ UNAUDITED PRO FORMA CONSOLIDATED STATEMENT OF OPERATIONS 
+
+ FOR THE FISCAL YEAR ENDED JUNE 30, 2026 
+
+ (Dollars in thousands, except per share data) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ (1) 
+ Historical (a) 
+ 
+ 
+ (2)
+Distribution
+of MSGR (b) 
+ 
+ 
+ (1) - (2) = (3) 
+ Pro Forma
+Continuing
+Operations (c) 
+ 
+ 
+ (4)
+Transaction
+Accounting
+Adjustments 
+ 
+ 
+ Notes 
+ 
+ 
+ (3) + (4) = (5) 
+ Pro Forma 
+ 
+
+ 
+ Revenues
+ 
+ 
+ $ 
+ 1,153,822 
+ 
+ 
+ $ 
+ 337,270 
+ 
+ 
+ $ 
+ 816,552 
+ 
+ 
+ $ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 816,552 
+ 
+
+ 
+ Operating expenses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Direct operating expenses
+ 
+ 
+ 
+ 833,702 
+ 
+ 
+ 
+ 264,846 
+ 
+ 
+ 
+ 568,856 
+ 
+ 
+ 
+ (794 
+ ) 
+ 
+ 
+ (d) 
+ 
+ 
+ 
+ 573,361 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,299 
+ 
+ 
+ 
+ (e) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Selling, general and administrative expenses
+ 
+ 
+ 
+ 285,995 
+ 
+ 
+ 
+ 55,304 
+ 
+ 
+ 
+ 230,691 
+ 
+ 
+ 
+ (42,667 
+ ) 
+ 
+ 
+ (d) 
+ 
+ 
+ 
+ 189,934 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,910 
+ 
+ 
+ 
+ (f) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Depreciation and amortization
+ 
+ 
+ 
+ 3,179 
+ 
+ 
+ 
+ 2,348 
+ 
+ 
+ 
+ 831 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 831 
+ 
+
+ 
+ Restructuring charges
+ 
+ 
+ 
+ 2,078 
+ 
+ 
+ 
+ 750 
+ 
+ 
+ 
+ 1,328 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,328 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Operating income
+ 
+ 
+ 
+ 28,868 
+ 
+ 
+ 
+ 14,022 
+ 
+ 
+ 
+ 14,846 
+ 
+ 
+ 
+ 36,252 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51,098 
+ 
+
+ 
+ Other income (expense):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Interest income
+ 
+ 
+ 
+ 2,939 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 2,902 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,902 
+ 
+
+ 
+ Interest expense
+ 
+ 
+ 
+ (21,085 
+ ) 
+ 
+ 
+ (3,528 
+ ) 
+ 
+ 
+ (17,557 
+ ) 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (17,557 
+ ) 
+
+ 
+ Miscellaneous income (expense), net
+ 
+ 
+ 
+ 7,261 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 7,261 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7,261 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ (10,885 
+ ) 
+ 
+ 
+ (3,491 
+ ) 
+ 
+ 
+ (7,394 
+ ) 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (7,394 
+ ) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Income (loss) before income taxes
+ 
+ 
+ 
+ 17,983 
+ 
+ 
+ 
+ 10,531 
+ 
+ 
+ 
+ 7,452 
+ 
+ 
+ 
+ 36,252 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 43,704 
+ 
+
+ 
+ Income tax expense
+ 
+ 
+ 
+ (10,224 
+ ) 
+ 
+ 
+ (4,716 
+ ) 
+ 
+ 
+ (5,508 
+ ) 
+ 
+ 
+ (11,862 
+ ) 
+ 
+ 
+ (g) 
+ 
+ 
+ 
+ (17,370 
+ ) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Net income (loss)
+ 
+ 
+ $ 
+ 7,759 
+ 
+ 
+ $ 
+ 5,815 
+ 
+ 
+ $ 
+ 1,944 
+ 
+ 
+ $ 
+ 24,390 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 26,334 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Basic earnings (loss) per common share attributable to MSG Knickerbockers Corp.’s
+stockholders
+ 
+ 
+ $ 
+ 0.32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (h) 
+ 
+ 
+ $ 
+ 1.09 
+ 
+
+ 
+ Diluted earnings (loss) per common share attributable to MSG Knickerbockers Corp.’s
+stockholders
+ 
+ 
+ $ 
+ 0.32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (h) 
+ 
+ 
+ $ 
+ 1.09 
+ 
+
+ 
+ Weighted-average number of common shares outstanding:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Basic
+ 
+ 
+ 
+ 24,154 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (h) 
+ 
+ 
+ 
+ 24,154 
+ 
+
+ 
+ Diluted
+ 
+ 
+ 
+ 24,252 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (h) 
+ 
+ 
+ 
+ 24,252 
+ 
+
+ 
+ 3 
+
+ 
+
+ 
+
+ 
+
+ 
+ MSG KNICKERBOCKERS CORP. 
+
+ UNAUDITED PRO FORMA CONSOLIDATED STATEMENT OF OPERATIONS 
+
+ FOR THE FISCAL YEAR ENDED JUNE 30, 2025 
+
+ (Dollars in thousands, except per share data) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ (1) 
+ Historical (a) 
+ 
+ 
+ (2)
+Distribution
+of MSGR (b) 
+ 
+ 
+ (1) - (2) = (3) 
+Pro Forma
+Continuing
+Operations (c) 
+ 
+ 
+ 
+ 
+
+ 
+ Revenues
+ 
+ 
+ $ 
+ 1,039,220 
+ 
+ 
+ $ 
+ 332,016 
+ 
+ 
+ $ 
+ 707,204 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Operating expenses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Direct operating expenses
+ 
+ 
+ 
+ 755,118 
+ 
+ 
+ 
+ 259,112 
+ 
+ 
+ 
+ 496,006 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Selling, general and administrative expenses
+ 
+ 
+ 
+ 266,076 
+ 
+ 
+ 
+ 51,302 
+ 
+ 
+ 
+ 214,774 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Depreciation and amortization
+ 
+ 
+ 
+ 3,218 
+ 
+ 
+ 
+ 2,461 
+ 
+ 
+ 
+ 757 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Operating income
+ 
+ 
+ 
+ 14,808 
+ 
+ 
+ 
+ 19,141 
+ 
+ 
+ 
+ (4,333 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ Other income (expense):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Interest income
+ 
+ 
+ 
+ 4,034 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ 3,971 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Interest expense
+ 
+ 
+ 
+ (21,652 
+ ) 
+ 
+ 
+ (4,014 
+ ) 
+ 
+ 
+ (17,638 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ Miscellaneous income (expense), net
+ 
+ 
+ 
+ (14,462 
+ ) 
+ 
+ 
+ —  
+ 
+ 
+ 
+ (14,462 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ (32,080 
+ ) 
+ 
+ 
+ (3,951 
+ ) 
+ 
+ 
+ (28,129 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Income (loss) before income taxes
+ 
+ 
+ 
+ (17,272 
+ ) 
+ 
+ 
+ 15,190 
+ 
+ 
+ 
+ (32,462 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ Income tax (expense) benefit
+ 
+ 
+ 
+ (5,166 
+ ) 
+ 
+ 
+ (6,504 
+ ) 
+ 
+ 
+ 1,338 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Net income (loss)
+ 
+ 
+ $ 
+ (22,438 
+ ) 
+ 
+ $ 
+ 8,686 
+ 
+ 
+ $ 
+ (31,124 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Basic earnings (loss) per common share attributable to MSG Knickerbockers Corp.’s
+stockholders
+ 
+ 
+ $ 
+ (0.93 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (1.29 
+ ) 
+ 
+ 
+ (h 
+ ) 
+
+ 
+ Diluted earnings (loss) per common share attributable to MSG Knickerbockers Corp.’s
+stockholders
+ 
+ 
+ $ 
+ (0.93 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ (1.29 
+ ) 
+ 
+ 
+ (h 
+ ) 
+
+ 
+ Weighted-average number of common shares outstanding:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Basic
+ 
+ 
+ 
+ 24,089 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24,089 
+ 
+ 
+ 
+ (h 
+ ) 
+
+ 
+ Diluted
+ 
+ 
+ 
+ 24,089 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24,089 
+ 
+ 
+ 
+ (h 
+ ) 
+
+ 
+ 4 
+
+ 
+
+ 
+
+ 
+
+ 
+ MSG KNICKERBOCKERS CORP. 
+
+ UNAUDITED PRO FORMA CONSOLIDATED STATEMENT OF OPERATIONS 
+
+ FOR THE FISCAL YEAR ENDED JUNE 30, 2024 
+
+ (Dollars in thousands, except per share data) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ (1) 
+ Historical (a) 
+ 
+ 
+ (2)
+Distribution
+of MSGR (b) 
+ 
+ 
+ (1) - (2) = (3) 
+Pro Forma
+Continuing
+Operations (c) 
+ 
+ 
+ 
+ 
+
+ 
+ Revenues
+ 
+ 
+ $ 
+ 1,027,149 
+ 
+ 
+ $ 
+ 401,532 
+ 
+ 
+ $ 
+ 625,617 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Operating expenses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Direct operating expenses
+ 
+ 
+ 
+ 616,514 
+ 
+ 
+ 
+ 270,207 
+ 
+ 
+ 
+ 346,307 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Selling, general and administrative expenses
+ 
+ 
+ 
+ 261,433 
+ 
+ 
+ 
+ 56,476 
+ 
+ 
+ 
+ 204,957 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Depreciation and amortization
+ 
+ 
+ 
+ 3,164 
+ 
+ 
+ 
+ 2,514 
+ 
+ 
+ 
+ 650 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Operating income
+ 
+ 
+ 
+ 146,038 
+ 
+ 
+ 
+ 72,335 
+ 
+ 
+ 
+ 73,703 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Other income (expense):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Interest income
+ 
+ 
+ 
+ 2,787 
+ 
+ 
+ 
+ 86 
+ 
+ 
+ 
+ 2,701 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Interest expense
+ 
+ 
+ 
+ (27,589 
+ ) 
+ 
+ 
+ (8,223 
+ ) 
+ 
+ 
+ (19,366 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ Miscellaneous income (expense), net
+ 
+ 
+ 
+ (15,568 
+ ) 
+ 
+ 
+ —  
+ 
+ 
+ 
+ (15,568 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ (40,370 
+ ) 
+ 
+ 
+ (8,137 
+ ) 
+ 
+ 
+ (32,233 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Income (loss) before income taxes
+ 
+ 
+ 
+ 105,668 
+ 
+ 
+ 
+ 64,198 
+ 
+ 
+ 
+ 41,470 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Income tax expense
+ 
+ 
+ 
+ (46,897 
+ ) 
+ 
+ 
+ (23,129 
+ ) 
+ 
+ 
+ (23,768 
+ ) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Net income (loss)
+ 
+ 
+ $ 
+ 58,771 
+ 
+ 
+ $ 
+ 41,069 
+ 
+ 
+ $ 
+ 17,702 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Basic earnings (loss) per common share attributable to MSG Knickerbockers Corp.’s
+stockholders
+ 
+ 
+ $ 
+ 2.45 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 0.74 
+ 
+ 
+ 
+ (h 
+ ) 
+
+ 
+ Diluted earnings (loss) per common share attributable to MSG Knickerbockers Corp.’s
+stockholders
+ 
+ 
+ $ 
+ 2.44 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 0.73 
+ 
+ 
+ 
+ (h 
+ ) 
+
+ 
+ Weighted-average number of common shares outstanding:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Basic
+ 
+ 
+ 
+ 24,011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24,011 
+ 
+ 
+ 
+ (h 
+ ) 
+
+ 
+ Diluted
+ 
+ 
+ 
+ 24,096 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24,096 
+ 
+ 
+ 
+ (h 
+ ) 
+
+ 
+ 5 
+
+ 
+
+ 
+
+ 
+
+ 
+ MSG KNICKERBOCKERS CORP. 
+
+ UNAUDITED PRO FORMA CONSOLIDATED BALANCE SHEET 
+
+ AS OF JUNE 30, 2026 
+
+ (Dollars in thousands) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ (1) 
+ Historical (a) 
+ 
+ 
+ (2)
+Distribution
+of MSGR (i) 
+ 
+ 
+ (1) - (2) = (3)
+Pro Forma
+Continuing
+Operations (c) 
+ 
+ 
+ (4)
+Transaction
+Accounting
+Adjustments 
+ 
+ 
+ Notes 
+ 
+ 
+ (3) + (4) = (5)
+Pro Forma 
+ 
+
+ 
+ ASSETS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Current Assets:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Cash and cash equivalents
+ 
+ 
+ $ 
+ 164,511 
+ 
+ 
+ $ 
+ 160 
+ 
+ 
+ $ 
+ 164,351 
+ 
+ 
+ $ 
+ (19,095 
+ ) 
+ 
+ 
+ (j) 
+ 
+ 
+ $ 
+ 145,256 
+ 
+
+ 
+ Accounts receivable, net
+ 
+ 
+ 
+ 52,184 
+ 
+ 
+ 
+ 9,033 
+ 
+ 
+ 
+ 43,151 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 43,151 
+ 
+
+ 
+ Net related party receivables
+ 
+ 
+ 
+ 36,103 
+ 
+ 
+ 
+ 13,399 
+ 
+ 
+ 
+ 22,704 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22,704 
+ 
+
+ 
+ Prepaid expenses
+ 
+ 
+ 
+ 43,104 
+ 
+ 
+ 
+ 33,410 
+ 
+ 
+ 
+ 9,694 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,694 
+ 
+
+ 
+ Other current assets
+ 
+ 
+ 
+ 27,388 
+ 
+ 
+ 
+ 13,430 
+ 
+ 
+ 
+ 13,958 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13,958 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Total current assets
+ 
+ 
+ 
+ 323,290 
+ 
+ 
+ 
+ 69,432 
+ 
+ 
+ 
+ 253,858 
+ 
+ 
+ 
+ (19,095 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 234,763 
+ 
+
+ 
+ Property and equipment, net
+ 
+ 
+ 
+ 27,163 
+ 
+ 
+ 
+ 22,944 
+ 
+ 
+ 
+ 4,219 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,219 
+ 
+
+ 
+ Right-of-use lease
+assets
+ 
+ 
+ 
+ 740,576 
+ 
+ 
+ 
+ 266,802 
+ 
+ 
+ 
+ 473,774 
+ 
+ 
+ 
+ 17,659 
+ 
+ 
+ 
+ (e) 
+ 
+ 
+ 
+ 491,433 
+ 
+
+ 
+ Indefinite-lived intangible assets
+ 
+ 
+ 
+ 103,644 
+ 
+ 
+ 
+ 20,378 
+ 
+ 
+ 
+ 83,266 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 83,266 
+ 
+
+ 
+ Goodwill
+ 
+ 
+ 
+ 226,523 
+ 
+ 
+ 
+ 57,624 
+ 
+ 
+ 
+ 168,899 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 168,899 
+ 
+
+ 
+ Investments
+ 
+ 
+ 
+ 65,618 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 65,618 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 65,618 
+ 
+
+ 
+ Deferred tax assets, net
+ 
+ 
+ 
+ 28,773 
+ 
+ 
+ 
+ 28,773 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ —  
+ 
+
+ 
+ Other assets
+ 
+ 
+ 
+ 22,065 
+ 
+ 
+ 
+ 19,685 
+ 
+ 
+ 
+ 2,380 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,380 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Total assets
+ 
+ 
+ $ 
+ 1,537,652 
+ 
+ 
+ $ 
+ 485,638 
+ 
+ 
+ $ 
+ 1,052,014 
+ 
+ 
+ $ 
+ (1,436 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,050,578 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 6 
+
+ 
+
+ 
+
+ 
+
+ 
+ MSG KNICKERBOCKERS CORP. 
+
+ UNAUDITED PRO FORMA CONSOLIDATED BALANCE SHEET (Continued) 
+
+ AS OF JUNE 30, 2026 
+
+ (Dollars in thousands) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) - (2) = (3) 
+ 
+ 
+ (4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ (1) 
+ Historical (a) 
+ 
+ 
+ (2) 
+ Distribution
+of MSGR (i) 
+ 
+ 
+ Pro Forma 
+ Continuing 
+ Operations (c) 
+ 
+ 
+ Transaction 
+ Accounting 
+ Adjustments 
+ 
+ 
+ Notes 
+ 
+ 
+ (3) + (4) = (5) 
+ Pro Forma 
+ 
+
+ 
+ LIABILITIES AND EQUITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Current Liabilities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Accounts payable
+ 
+ 
+ $ 
+ 18,411 
+ 
+ 
+ $ 
+ 1,703 
+ 
+ 
+ $ 
+ 16,708 
+ 
+ 
+ $ 
+ 8,554 
+ 
+ 
+ 
+ (k) 
+ 
+ 
+ $ 
+ 25,262 
+ 
+
+ 
+ Net related party payables
+ 
+ 
+ 
+ 4,964 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ 4,917 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,917 
+ 
+
+ 
+ Debt
+ 
+ 
+ 
+ 16,500 
+ 
+ 
+ 
+ 16,500 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ —  
+ 
+
+ 
+ Accrued liabilities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Employee-related costs
+ 
+ 
+ 
+ 159,940 
+ 
+ 
+ 
+ 18,258 
+ 
+ 
+ 
+ 141,682 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 141,682 
+ 
+
+ 
+ League-related accruals
+ 
+ 
+ 
+ 209,926 
+ 
+ 
+ 
+ 87,250 
+ 
+ 
+ 
+ 122,676 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 122,676 
+ 
+
+ 
+ Other accrued liabilities
+ 
+ 
+ 
+ 9,444 
+ 
+ 
+ 
+ 1,166 
+ 
+ 
+ 
+ 8,278 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8,278 
+ 
+
+ 
+ Operating lease liabilities, current
+ 
+ 
+ 
+ 57,834 
+ 
+ 
+ 
+ 19,288 
+ 
+ 
+ 
+ 38,546 
+ 
+ 
+ 
+ 1,944 
+ 
+ 
+ 
+ (e) 
+ 
+ 
+ 
+ 40,490 
+ 
+
+ 
+ Deferred revenue
+ 
+ 
+ 
+ 165,416 
+ 
+ 
+ 
+ 75,143 
+ 
+ 
+ 
+ 90,273 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 90,273 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Total current liabilities
+ 
+ 
+ 
+ 642,435 
+ 
+ 
+ 
+ 219,355 
+ 
+ 
+ 
+ 423,080 
+ 
+ 
+ 
+ 10,498 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 433,578 
+ 
+
+ 
+ Long-term debt
+ 
+ 
+ 
+ 242,000 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 242,000 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 242,000 
+ 
+
+ 
+ Operating lease liabilities, noncurrent
+ 
+ 
+ 
+ 843,975 
+ 
+ 
+ 
+ 312,309 
+ 
+ 
+ 
+ 531,666 
+ 
+ 
+ 
+ 15,715 
+ 
+ 
+ 
+ (e) 
+ 
+ 
+ 
+ 547,381 
+ 
+
+ 
+ Other employee-related costs
+ 
+ 
+ 
+ 71,984 
+ 
+ 
+ 
+ 18,347 
+ 
+ 
+ 
+ 53,637 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 53,637 
+ 
+
+ 
+ Deferred tax liabilities, net
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ (1,993 
+ ) 
+ 
+ 
+ 1,993 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,993 
+ 
+
+ 
+ Deferred revenue, noncurrent
+ 
+ 
+ 
+ 554 
+ 
+ 
+ 
+ 205 
+ 
+ 
+ 
+ 349 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 349 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Total liabilities
+ 
+ 
+ 
+ 1,800,948 
+ 
+ 
+ 
+ 548,223 
+ 
+ 
+ 
+ 1,252,725 
+ 
+ 
+ 
+ 26,213 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,278,938 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Commitments and contingencies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ MSG Knickerbockers Corp. Stockholders’ Equity:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Class A Common Stock
+ 
+ 
+ 
+ 204 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 204 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 204 
+ 
+
+ 
+ Class B Common Stock
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 45 
+ 
+
+ 
+ Preferred stock
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ —  
+ 
+
+ 
+ Additional paid-in capital
+ 
+ 
+ 
+ 17,090 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 17,090 
+ 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17,090 
+ 
+
+ 
+ Treasury stock
+ 
+ 
+ 
+ (149,858 
+ ) 
+ 
+ 
+ —  
+ 
+ 
+ 
+ (149,858 
+ ) 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (149,858 
+ ) 
+
+ 
+ Accumulated deficit
+ 
+ 
+ 
+ (129,861 
+ ) 
+ 
+ 
+ (62,585 
+ ) 
+ 
+ 
+ (67,276 
+ ) 
+ 
+ 
+ (27,649 
+ ) 
+ 
+ 
+ (j), (k) 
+ 
+ 
+ 
+ (94,925 
+ ) 
+
+ 
+ Accumulated other comprehensive loss
+ 
+ 
+ 
+ (916 
+ ) 
+ 
+ 
+ —  
+ 
+ 
+ 
+ (916 
+ ) 
+ 
+ 
+ —  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (916 
+ ) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Total equity
+ 
+ 
+ 
+ (263,296 
+ ) 
+ 
+ 
+ (62,585 
+ ) 
+ 
+ 
+ (200,711 
+ ) 
+ 
+ 
+ (27,649 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (228,360 
+ ) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Total liabilities and equity
+ 
+ 
+ $ 
+ 1,537,652 
+ 
+ 
+ $ 
+ 485,638 
+ 
+ 
+ $ 
+ 1,052,014 
+ 
+ 
+ $ 
+ (1,436 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,050,578 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 7 
+
+ 
+
+ 
+
+ 
+
+ 
+ MSG KNICKERBOCKERS CORP. 
+
+ NOTES TO UNAUDITED PRO FORMA CONSOLIDATED FINANCIAL INFORMATION 
+
+ (Dollars in thousands) 
+ 
+
+ 
+ 
+ (a) 
+ Represents the Registrant’s historical statements of operations for the years ended June 30, 2026,
+2025 and 2024 and historical consolidated balance sheet as of June 30, 2026, prior to any adjustments for the Distribution and other pro forma adjustments described below. 
+ 
+
+ 
+
+ 
+ 
+ (b) 
+ Represents the results of operations of MSGR for the years ended June 30, 2026, 2025 and 2024 that qualify
+as discontinued operations under GAAP. 
+ 
+
+ Amounts in this column for the year ended June 30, 2026 also include $3,754
+of transaction costs, recorded within selling, general, and administrative expenses, related to the Distribution and incurred by the Registrant during this period, primarily related to accounting, legal and financial advisory fees. Such costs
+qualify for presentation within discontinued operations under ASC 205-20. 
+ The income tax expense
+or benefit attributable to continuing and discontinued operations has been determined using the “with-and-without method.” In accordance with ASC 740,
+ Income Taxes , tax effects due to changes in tax laws or rates are included in income tax (expense) benefit attributable to continuing operations. 
+ 
+
+ 
+ 
+ (c) 
+ Represents the Registrant’s historical results of operations, adjusted to reflect transactions associated
+with the Distribution that qualify as discontinued operations. Amounts in this column include certain general corporate overhead costs that do not meet the criteria for discontinued operations presentation and thus will be presented in future
+filings as part of the Registrant’s continuing operations. However, the Registrant expects that a significant portion of these expenses will no longer be incurred by the Registrant subsequent to the Distribution, as reflected in the various
+pro forma adjustments below. 
+ 
+
+ 
+
+ 
+ 
+ (d) 
+ Reflects the net impact of the Transition Services Agreement (“TSA”) entered into in connection
+with the Distribution and the net impact of employment agreements, as further described in Item 5.02 of this Form 8-K, entered into in connection with the Distribution. Pro forma results from continuing operations of the Registrant include general
+corporate overhead costs that were historically recorded as the Registrant’s direct operating expenses and selling, general and administrative expenses and do not qualify for discontinued operations presentation under GAAP. Subsequent to the
+Distribution, the Registrant has agreed to provide certain corporate and other services to MSGR, including with respect to such areas as information technology, accounts payable, payroll, tax, certain legal functions, human resources, insurance and
+risk management, government affairs, investor relations, corporate communications, benefit plan administration and reporting, and internal audit functions as well as certain marketing functions. MSGR has similarly agreed to provide certain
+transition services to the Registrant. Cost recoveries and costs for transition services will be presented as a component of direct operating expenses or selling, general and administrative expenses, as applicable. 
+ 
+
+ The table below reflects the components of this pro forma adjustment for the year ended June 30, 2026: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ For the Year Ended
+June 30, 2026 
+ 
+
+ 
+ Net direct operating expense cost recoveries from MSGR pursuant to the TSA
+ 
+ 
+ $ 
+ 794 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Net decrease in direct operating expenses
+ 
+ 
+ $ 
+ 794 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Net selling, general and administrative cost recoveries from MSGR pursuant to the TSA
+ 
+ 
+ $ 
+ 28,146 
+ 
+
+ 
+ Net decrease in selling, general and administrative expenses pursuant to employment agreements
+entered in connection with the Distribution
+ 
+ 
+ 
+ 14,521 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Net decrease in selling, general and administrative expenses
+ 
+ 
+ $ 
+ 42,667 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ (e) 
+ Reflects the impact of the Madison Square Garden Training Center Lease (the “Training Center Lease
+Agreement”) entered into in connection with the Distribution. After the Distribution, MSGR owns the Madison Square Garden Training Center and leases a portion of the Madison Square Garden Training Center to the Registrant pursuant to the
+Training Center Lease Agreement. As a result of the Training Center Lease Agreement, the Registrant will begin recognizing operating lease expense, as well as a related
+ right-of-use (“ROU”) asset and corresponding operating lease liability. In addition, the Registrant will pay certain variable operating expenses pursuant to
+the terms of the Training Center Lease Agreement. As such, the following adjustments were recorded in the unaudited pro forma consolidated balance sheet as of June 30, 2026: 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ As of June 30, 2026 
+ 
+
+ 
+ Right-of-use lease
+assets
+ 
+ 
+ $ 
+ 17,659 
+ 
+
+ 
+ Operating lease liabilities, current
+ 
+ 
+ 
+ 1,944 
+ 
+
+ 
+ Operating lease liabilities, noncurrent
+ 
+ 
+ 
+ 15,715 
+ 
+
+ 
+ 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ MSG KNICKERBOCKERS CORP. 
+
+ NOTES TO UNAUDITED PRO FORMA CONSOLIDATED FINANCIAL INFORMATION 
+
+ (Dollars in thousands) 
+ 
+
+ Additionally, the following adjustments were recorded in the unaudited pro forma consolidated
+statement of operations for the year ended June 30, 2026 to reflect the impacts of the Training Center Lease Agreement: 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ For the Year Ended
+June 30, 2026 
+ 
+
+ 
+ Increase in operating lease expense
+ 
+ 
+ $ 
+ 2,293 
+ 
+
+ 
+ Increase in direct operating expenses pursuant to Training Center Lease Agreement
+ 
+ 
+ 
+ 3,006 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Net increase in direct operating expenses
+ 
+ 
+ $ 
+ 5,299 
+ 
+
+ 
+
+ 
+ 
+ (f) 
+ Reflects the impact of the Group Ticket Sales Services Agreement entered into with MSGR in connection with the
+Distribution pursuant to which MSGR will be appointed the sales and service representative to sell group tickets related to the Registrant’s events in exchange for a commission. An adjustment of $1,910 was recorded to reflect commission
+expense based on group tickets sold during the fiscal year ended June 30, 2026 in the unaudited pro forma consolidated statement of operations for the year ended June 30, 2026. 
+ 
+
+ 
+
+ 
+ 
+ (g) 
+ The income tax effects of the pro forma adjustments in the amount of $11,862 are recorded at the applicable
+federal and state statutory tax rate for the fiscal year ended June 30, 2026. This resulted in an overall tax expense of $17,370 for the fiscal year ended June 30, 2026 in the unaudited pro forma consolidated statement of operations for
+the year ended June 30, 2026. 
+ 
+
+ 
+
+ 
+ 
+ (h) 
+ Pro forma earnings per share and pro forma weighted-average basic shares outstanding are based on the number of
+shares outstanding had the Distribution taken place during the periods presented. Pro forma diluted weighted-average shares outstanding reflect dilution from the assumed vesting of restricted stock units issued by the Registrant, as well as the
+exercise of stock options granted by the Registrant. 
+ 
+
+ Potentially dilutive common shares were excluded from the
+calculation of diluted earnings per share for the year ended June 30, 2025 as their inclusion would have been anti-dilutive. 
+ 
+
+ 
+ 
+ (i) 
+ Represents the elimination of the historical assets and liabilities of MSGR from the Registrant’s
+consolidated balance sheet as of June 30, 2026. 
+ 
+
+ 
+
+ 
+ 
+ (j) 
+ Reflects the net cash of $19,095 that the Registrant contributed to MSGR in connection with the Distribution.
+
+ 
+
+ 
+
+ 
+ 
+ (k) 
+ Subsequent to June 30, 2026 and through the date of the Distribution, the Registrant has incurred
+additional non-recurring costs of approximately $8,554 to complete the Distribution. These costs primarily relate to accounting, legal and financial advisory fees associated with separation activities and will
+qualify for presentation within discontinued operations under ASC 205-20. 
+ 
+
+ 
+ 9

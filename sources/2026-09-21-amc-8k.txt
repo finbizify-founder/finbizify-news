@@ -1,0 +1,131 @@
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/1411579/000110465926109129/tm2625696d2_ex99-1.htm
+FETCHED AT: 2026-11-03T19:40:24.964Z
+HTTP STATUS: 200
+
+--- extracted text below; evidence only, never rendered or republished ---
+EX-99.1
+ 2
+ tm2625696d2_ex99-1.htm
+ EXHIBIT 99.1
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Exhibit 99.1 
+
+ 
+
+ Certain
+Preliminary Financial and Operating Data for the Two Months Ended August 31, 2026 
+
+ 
+
+ 
+ 
+ 
+ Two Months Ended August 31, 
+
+ 
+ (In millions) 
+ 2026 
+ 2025 
+ Change 
+ % Change 
+
+ 
+ North American box office 1 
+ $ 2,462.9 
+ $ 1,826.8 
+ $ 636.1 
+ 34.8 % 
+
+ 
+ Company consolidated total revenue 
+ $ 1,334.8 
+ $ 937.2 
+ $ 397.6 
+ 42.2 % 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Consolidated Key Performance Indicators 
+ 
+ 
+ 
+ 
+
+ 
+ Attendance (in thousands) 
+ 58,203 
+ 42,840 
+ 15,363 
+ 35.9 % 
+
+ 
+ Admissions revenue per patron 
+ $ 12.89 
+ $ 12.14 
+ $ 0.75 
+ 6.2 % 
+
+ 
+ Food and beverage revenue per patron 
+ $ 7.90 
+ $ 7.70 
+ $ 0.20 
+ 2.6 % 
+
+ 
+ Other theatre revenue per patron 
+ $ 2.14 
+ $ 2.04 
+ $ 0.10 
+ 4.9 % 
+
+ 
+ Total revenue per patron 
+ $ 22.93 
+ $ 21.88 
+ $ 1.05 
+ 4.8 % 
+
+ 
+ 
+
+ 
+ 1 &ldquo;Box office&rdquo; refers to gross revenue from theatrical ticket sales and does not represent revenue received or retained by the Company. Source: Comscore and Rentrak. 
+
+ 
+ 
+
+ 
+ Additionally, cash and cash equivalents as of August 31, 2026 was $832.5 million, excluding restricted cash of $40.9 million. 
+
+ 
+
+ 
+
+ The
+preliminary estimated financial information for the two months ended August 31, 2026 is unaudited, subject to completion of the Company&rsquo;s
+financial reporting processes, reflects management&rsquo;s current estimates based solely upon information known by management as of the
+date hereof and is not a comprehensive statement of the Company&rsquo;s financial results for the periods set forth above. Such preliminary
+financial information has not yet been subject to the Company&rsquo;s quarterly review procedures. In addition, such preliminary financial
+information is subject to the finalization and closing of the Company&rsquo;s accounting books and records (which have yet to be performed)
+and should not be viewed as a substitute for financial statements prepared in accordance with GAAP. No independent registered public accounting
+firm has audited, reviewed or compiled, examined or performed any procedures with respect to these preliminary results, nor has any such
+firm expressed any opinion or any other form of assurance with respect thereto. The preliminary financial information for the two months
+ended August 31, 2026 are not necessarily indicative of our results for future interim periods. The preliminary estimated financial results
+described above constitute forward-looking statements. Accordingly, you should not place undue reliance upon these preliminary estimates.
+In connection with the completion of the Company&rsquo;s financial reporting processes, additional items or information may be identified
+that could result in adjustments to the preliminary results, and any such adjustments could be material. This update should be read together
+with the prior disclosures contained in the Company&rsquo;s Annual Report on Form 10-K and its Quarterly Reports on Form 10-Q, including
+the risk factors contained therein.
