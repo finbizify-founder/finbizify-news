@@ -19,7 +19,7 @@ wayback_url:
 
 ### DoorDash agreed to buy Instacart
 
-DoorDash agreed to buy Instacart for $65.00 a share, about $17 billion in total. That's 26% above Instacart's closing price on October 22.
+About $17 billion. That's what DoorDash agreed to pay for Instacart, the online grocery company.
 
 The deal still needs approval from Instacart stockholders and regulators. The companies expect it to close at the end of 2027 or in the first half of 2028.
 
@@ -30,9 +30,9 @@ A company can grow by building a new business itself or by buying one that someo
 **Why it matters:** Worth asking whenever one company buys another: what was it paying extra for that it didn't want to build itself?
 
 > **Review block**
-> - Figures used: $65.00 per share, approximately $17 billion equity value, 26% premium to the October 22, 2026 close, expected close end of 2027 or first half of 2028
+> - Figures used: approximately $17 billion equity value, expected close end of 2027 or first half of 2028
 > - Source: SEC Form 8-K exhibit 99.1 (joint press release), 2026-10-29
 > - Derived figures: none
 > - Unsourced claims: none. "Usually pays more" is stated as a general mechanism; the premium for this deal is in the source
-> - Not used: one membership fee for DashPass and Instacart+ members (a projected benefit), 50,000 additional stores, cash and stock election mechanics, 19% of shares committed to vote yes
+> - Not used: $65.00 per share and the 26% premium to the October 22 close (cut in cross-check as share-price framing); one membership fee for DashPass and Instacart+ members (a projected benefit), 50,000 additional stores, cash and stock election mechanics, 19% of shares committed to vote yes
 > - Voice self-check: "didn't want to build itself" in the question reaches past the source, so it stays a question and claims nothing about DoorDash's motive
