@@ -1,0 +1,143 @@
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/1065088/000106508826000205/ebay-20261020.htm
+FETCHED AT: 2026-11-03T19:40:02.500Z
+HTTP STATUS: 200
+
+--- extracted text below; evidence only, never rendered or republished ---
+ebay-20261020 0001065088 False 0001065088 2026-10-20 2026-10-20 
+ 
+ 
+ 
+
+ 
+ 
+
+      
+ 
+ 
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ 
+ FORM  8-K 
+ 
+ 
+ CURRENT REPORT 
+ Pursuant to Section 13 or 15(d) of 
+ the Securities Exchange Act of 1934 
+ 
+ 
+ Date of Report (Date of earliest event reported): October 20, 2026 
+ 
+ eBay Inc. 
+ (Exact name of registrant as specified in its charter) 
+ Delaware 001-37713 77-0430924 
+ (State or other jurisdiction (Commission File Number) (I.R.S. Employer 
+ of incorporation) Identification No.) 
+
+ 
+ 
+ 2025 Hamilton Avenue 
+ San Jose , California 95125 
+ (Address of principal executive offices) 
+ 
+ 
+ (408)   376-9659 
+ (Registrant's telephone number, including area code) 
+ 
+ 
+ Not Applicable. 
+ (Former name or former address, if changed since last report.) 
+ 
+ 
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+ 
+ 
+ ☐     Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+ 
+ ☐     Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+ 
+ 
+ ☐     Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+ 
+ 
+ ☐     Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+   
+ 
+
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading symbol(s) Name of exchange on which registered 
+ Common stock EBAY The Nasdaq Global Select Market 
+
+ 
+ 
+
+ 
+ 
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+ 
+ 
+ Emerging growth company ☐ 
+ 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ Item 2.02 Results of Operations and Financial Condition. 
+ 
+ 
+ On October 20, 2026, eBay Inc. (the “Company” or “eBay”) announced a restructuring plan (the “Plan”) intended to align its teams and resources with its top strategic priorities to drive long-term sustainable growth. Separately, the Company confirmed that it expects to report financial results for the quarter ended September 30, 2026 above the guidance ranges for the quarter that the Company previously provided in its August 2026 earnings announcement. 
+ 
+ 
+ The information in this Item 2.02 of this report is being furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that Section, and shall not be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended (the “Securities Act”), regardless of any general incorporation language in such filing, unless expressly incorporated by specific reference in such filing. 
+ 
+ 
+ Item 2.05 Costs Associated with Exit or Disposal Activities. 
+ 
+ 
+ On October 20, 2026, the Company announced the Plan, which includes a reduction of the Company’s current global workforce by approximately 9%. Decisions regarding the elimination of positions are subject to local law and consultation requirements in certain countries, as well as the Company’s business needs. 
+ 
+ 
+ In connection with the Plan, the Company currently estimates that it will incur GAAP pre-tax charges in the range of $130 million to $150 million, substantially all of which are expected to be related to severance payments and post-employment benefits. The majority of these charges will be recognized as incurred during the fourth quarter of 2026, and the full amount of these charges is expected to result in future cash expenditures. 
+ 
+ 
+ The actions associated with the employee restructuring under the Plan are expected to be substantially complete by the end of the first quarter of 2027 subject to local law and consultation requirements and the Company’s business needs. The Company expects that expense savings resulting from the Plan will be used to further eBay’s strategic and operating initiatives. 
+ 
+ 
+ In addition, the Company may incur other charges or cash expenditures not currently contemplated due to unanticipated events that may occur, including in connection with the implementation of the Plan. 
+ 
+ 
+ Cautions Regarding Forward Looking Statements 
+ 
+ 
+ This Current Report on Form 8-K contains “forward-looking statements” within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act, including, but not limited to, statements related to the Company’s expected financial results for the third quarter and full year 2026, the Company's ability to drive long-term sustainable growth, the expected benefits of and timing of completion of the Plan, the magnitude of the workforce reduction under the Plan, the expected magnitude, type and timing of costs and charges in connection with the Plan, the expectation that there will be expense savings resulting from the Plan, and the Company’s intended use of such expense savings resulting from the Plan. Words such as “expects,” “anticipates,” “aims,” “projects,” “intends,” “plans,” “believes,” “estimates,” “seeks,” “assumes,” “may,” “should,” “could,” “would,” “foresees,” “forecasts,” “predicts,” “targets,” “commitments,” variations of such words and similar expressions are intended to identify such forward-looking statements. These forward-looking statements are based upon the Company’s current plans, assumptions, beliefs, and expectations. Forward-looking statements are subject to the occurrence of many events outside of the Company’s control. Actual results and the timing of events may differ materially from those contemplated by such forward-looking statements due to numerous factors that involve substantial known and unknown risks and uncertainties. These risks and uncertainties include, among other things, the risk that the restructuring costs and charges may be greater than anticipated; the risk that the Company’s restructuring efforts may be distracting to employees and management and adversely affect the Company’s strategic and operating initiatives, and the Company’s ability to attract and retain the highly skilled employees the Company needs to support its business; the risk that the Company’s restructuring efforts may negatively impact the Company’s revenue, business operations, reputation, or ability to serve buyers and sellers; the risk that the Company’s restructuring efforts (including the use of any expense savings therefrom) and the Company’s strategic and operating initiatives may not generate their intended benefits to the extent or as quickly as anticipated; and other risks and uncertainties discussed in the reports on Forms 10-K, 10-Q and 8-K and in other filings the Company makes with the Securities and Exchange Commission from time to time, which are available at www.sec.gov. Forward-looking statements should be considered in light of these risks and uncertainties. Investors and others are cautioned not to place undue reliance on forward-looking statements. All forward-looking statements contained herein speak only as of the date hereof. The Company assumes no obligation and does not intend to update these forward-looking statements, except as required by law. 
+ 
+ 
+
+ 
+ 
+
+ SIGNATURES 
+ 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+ 
+ 
+                                      
+ eBay Inc. 
+ (Registrant) 
+ 
+ Date: October 22, 2026 /s/ Samantha Wellington 
+ 
+ Name: Samantha Wellington 
+ Title: Senior Vice President, Chief Legal Officer and Secretary

@@ -1,117 +1,150 @@
-# Voice
+# Voice (v2)
 
-The reader is a 16-year-old who has never read an earnings release, and an answer engine deciding
-whether the page is worth citing. Both are served by the same thing: plain objective statement,
-specific and sourced, with no reach.
+The reader is a smart 16-year-old who has never read an earnings release. Write like a teacher with
+real business experience telling them what actually happened. Plain, specific, a little dry. Not a
+newswire, not an analyst note.
+
+The second reader is an answer engine deciding whether the page is worth citing. Both are served by
+the same thing: specific, sourced, and no reach.
+
+v2 replaces the August voice, which read too institutional. It follows the vault's
+`voice-education.md` (2026-09-19). Items written to it carry `voice: v2` in frontmatter.
+
+## Calibration
+
+The August Home Depot item, rewritten. This is the target.
+
+```
+### Home Depot's total sales grew faster than its existing stores
+
+$47.9 billion. That's what Home Depot sold in its second quarter, up 5.7% from a year earlier.
+
+But the stores that were already open a year ago grew 1.7%.
+
+**Concept:** comparable sales
+
+Total sales counts every store, including the ones that just opened. Comparable sales counts only
+stores open at least a year, so you see how the existing business did on its own. When the two
+numbers split apart, the growth came from somewhere other than the stores you already know.
+
+**Why it matters:** Next time a chain says sales are up, check whether it opened a pile of new
+locations. That's the first place growth hides.
+```
 
 ## Headlines
 
-**Plain and objective. Describe the relationship, not the figures.**
-
-The average teenager takes away the cause and effect, not the numbers. Numbers belong in the body,
-where the source sits next to them.
+**Plain, sentence case, describes the relationship or the event. No numbers. No cleverness that
+outruns the source.**
 
 | Good | Bad | Why |
 |---|---|---|
-| Home Depot's total sales grew faster than its existing stores | Home Depot sold more, but not from its existing stores | The bad one is a negative parallelism, which is banned |
+| Home Depot's total sales grew faster than its existing stores | Home Depot sold more, but not from its existing stores | Negative parallelism, banned |
 | Target's sales rose mostly because more people shopped there | Target's growth came from more people, not bigger baskets | Same ban |
-| Lowe's bought two companies during the quarter | Lowe's grew 8% and its stores were flat | Numbers do not belong in headlines |
+| Lowe's bought two companies during the quarter | Lowe's grew 8% and its stores were flat | Numbers stay out of headlines |
 | Walmart's advertising business grew faster than its stores | One Walmart grew fast and another Walmart grew slowly | Clever framing that outruns the source |
 | Ross Stores' earnings included a tariff refund | A quarter of Ross Stores' profit came from something that will not happen again | Absolute language, reads as engagement bait |
 
+## The hook
+
+`hook` in frontmatter: one plain sentence under 15 words, a real surprising fact from the source,
+usable as the first line of a social video. Implied contrast only, never a stated "not X, Y."
+
 ## The three parts
 
-**What happened.** Two sentences. Every figure from the one cited source. Lead with the relationship;
-let the numbers support it rather than open it.
+**What happened.** 2-3 short sentences, 1-2 per paragraph, mostly under 20 words. Open on the number
+or the dated fact, then give the relationship. Uneven rhythm is good. Fragments are fine. And, But
+and So are fine openers. Every figure comes from the one cited source.
 
-**Concept.** One short paragraph explaining the mechanism in plain language. This is the part that
-makes the item worth publishing, because the event itself is available in a thousand other places.
-Explain the idea so it transfers to the next company, not just this one.
+**Concept.** 2-4 short sentences, no numbers. State the idea flat, with confidence, in second person
+("the store you shop at," "your phone bill," "the app on your phone"). Explain it so it transfers to
+the next company, not just this one. This is the part that makes the item worth publishing, because
+the event itself is available in a thousand other places.
 
-**Why it matters.** One line. **This is the only field that reaches past the source, so it is the only
-place an unsupported claim can enter.** Across every draft of this project, every sentence that had to
-be cut for overreach was in this field.
+**Why it matters.** One line the teen can use: something to notice or ask next time they're at that
+store, app, checkout or ad. This is still the only field that reaches past the source, and every
+sentence ever cut from this project for overreach was in it. So:
 
-It must either:
-- **Name the reading as a reading** — "often gets watched as," "is generally considered," "tends to be
-  read as"
-- **Or end in a question** — "Worth asking of any company that reports growth: how much came from the
-  business it already had?"
-
-Never a flat generalization about how business works.
+- Confident about the lesson, careful about the company. Hedge any claim about a company's motives or
+  future. Never an absolute about a company.
+- Never money advice. No should, best, make sure.
+- Never a vague generalization ("this shows how business works").
+- A question is always a safe form.
+- Start with the question or the thing to notice. The **Why it matters** label already does the
+  setup, so never open with "Worth asking," "It's worth asking," "Worth noticing" or "It's worth
+  wondering." Vary the openings across a week: When..., Next time..., a bare question.
 
 | Good | Bad |
 |---|---|
-| Home improvement projects are among the purchases people can most easily postpone, so this figure often gets watched as a read on household confidence | Nobody remodels a kitchen they are about to leave |
-| Companies can grow sales by charging more or by attracting more people, and the second is generally considered the harder one to pull off | Raising prices grows sales for a quarter or two |
-| Worth asking of any company that reports growth: which of the two kinds was it? | One grew from its own stores. One grew from a checkbook |
-| Separating the regular business from the one-off events is part of reading any earnings report | Something that will not happen again |
+| Next time a chain says sales are up, check whether it opened a pile of new locations | Nobody remodels a kitchen they are about to leave |
+| Next time a price goes up at the register, watch whether the line gets shorter | Raising prices grows sales for a quarter or two |
+| When a company reports growth, which of the two kinds was it? | One grew from its own stores. One grew from a checkbook |
+| Next time you see a "record" quarter, check how much came from a one-off event | This will never happen again |
 
-## Hard rules
+## Numbers
 
-- **No em dashes.** Commas, periods, colons, semicolons, parentheses.
-- **No negative parallelisms.** "It's not X, it's Y," "Not X. Y.," "Less X, more Y," and every
-  variant. Say what it is.
-- **No dead AI vocabulary:** delve, leverage, unlock, robust, seamless, elevate, crucial, pivotal,
-  landscape, supercharge, empower, streamline, game-changer.
-- **No "serves as / stands as / represents a"** in place of "is."
-- **No absolute language.** "Will not happen again," "always," "guarantees."
-- **No financial abbreviation without its full term.** Earnings per share, comparable sales, operating
-  income. The explanation lives in the concept line.
-- **No numbers in headlines or in the concept line.** Body only.
-- Sentence case headers. Contractions. Digits for numbers. No hype, no engagement bait, no
-  "consult a professional."
-- **Never write down to teens.** No "Hey kids," no fake slang, no patronizing.
-
-## Guidance and forecasts
-
-**Guidance is reportable, never the concept.** Guidance is a company forecast, so a teaching point
-built on it is a teaching point built on an opinion.
-
-Report guidance only when it is material to the event, phrased as a statement the company made. Anchor
-every concept on results that already happened.
-
-## Investment framing
-
-Never. No "buy," no "sell," no price target, no judgment of a company as a good or bad investment, no
-implication that a reader should do anything with money as a result of the item.
-
-Share price movement is never the subject of an item.
-
-## Comparisons
-
-A comparison between two companies must **name what the two actually share, and the shared thing has
-to be checkable.**
-
-A prior draft paired Target with Lowe's and called them "the same business," which they are not.
-The real pair that week was Home Depot and Lowe's: same business, reporting a day apart. Same-day is
-not the same as same-business.
-
-When comparing, cite only what each company's own source says. Do not explain one company's numbers
-using another company's disclosure.
-
-## Numbers are evidence, not the point
-
-**The concept and its explanation are what the reader takes away. The figures are there so the claim
-can be checked.** Use the fewest numbers that make the point land. Two or three in an item is usually
-right; six is a sign the item is reporting rather than teaching.
+2-3 figures per item. Exact company financials stay exact. Round small incidental numbers. Digits,
+never words. No numbers in the headline or the concept paragraph.
 
 A reader who remembers the idea and forgets every figure got what the item was for.
 
+## Hard bans
+
+One hit fails the item.
+
+- **Em dashes and en dashes.** Use commas, periods, colons, semicolons, parentheses.
+- **Negative parallelisms and reframes**, every variant: "It's not X, it's Y," "Not X. Y.," "Less X,
+  more Y," "not only X but also Y," sentences ending "X, not Y," "While X seems..., Y actually,"
+  "Sure X, but Y is where."
+- **Inflated verbs** in place of is or has: serves as, stands as, marks a, represents a, boasts,
+  features a.
+- **Dead vocabulary:** delve, realm, harness, unlock, tapestry, paradigm, cutting-edge, revolutionize,
+  landscape, intricate, showcasing, crucial, pivotal, surpass, meticulous, vibrant, unparalleled,
+  underscore, leverage, synergy, innovative, game-changer, testament, highlight (as a verb),
+  emphasize, boast, groundbreaking, align, foster, showcase, enhance, holistic, garner, pioneering,
+  unleash, versatile, transformative, redefine, seamless, optimize, scalable, robust, breakthrough,
+  empower, streamline, frictionless, elevate, effortless, data-driven, proactive, visionary,
+  disruptive, reimagine, unprecedented, intuitive, accelerate, state-of-the-art, dynamic, immersive,
+  supercharge, enduring, interplay, valuable, ecosystem.
+- **Dead phrases:** "In today's," "It's worth noting," "Worth asking" (and every "worth ___ing"), "In order to," "At the end of the day,"
+  "Moving forward," "In other words," anything with "nobody" or "most people don't realize."
+- **Dead transitions:** Furthermore, Additionally, Moreover, That said.
+- Engagement bait, hype, "-ing" tack-ons that fake depth, rule-of-three lists, talking down.
+- "Cheap" or "affordable."
+- Endorsement words: official, partnered, approved, certified, sponsored, authorized, aligned.
+- Absolute language about a company: "will not happen again," "always," "guarantees."
+
+## Other rules
+
+- Spell out every financial abbreviation; define any acronym on first use.
+- Sentence case headers. Contractions.
+- At most one dry, precise humor beat per item. Optional.
+- Never write down to teens. No "Hey kids," no fake slang.
+
+## Guidance and forecasts
+
+**Guidance is reportable as a statement the company made, and never the teaching point.** Guidance is
+a forecast, so a concept built on it is built on an opinion. Anchor every concept on results that
+already happened.
+
+## Investment framing
+
+Never. No buy, no sell, no price target, no judgment of a company as an investment, no implication
+that a reader should do anything with money. Share price is never the subject.
+
+## Comparisons
+
+A comparison between two companies must name what the two actually share, and the shared thing has
+to be checkable. Same-day is not the same as same-business. Cite only what each company's own source
+says.
+
 ## Say which figure you used
 
-**Companies routinely report more than one number under nearly the same name.** Segment revenue and
-total revenue. Gross margin and adjusted gross margin. Earnings per share and adjusted earnings per
-share.
+Companies routinely report more than one number under nearly the same name: segment and total
+revenue, gross margin and adjusted gross margin, earnings per share and adjusted earnings per share.
 
-Rules:
-
-1. **Prefer the figure the company leads with** in its own narrative, not the one buried in the
-   statements, unless there is a reason to do otherwise.
-2. **If you use a different one, name it** so a reader checking the source knows which line to find.
-3. **Any percentage must sit on the same base as the dollar figures in the same item.** Citing a
-   segment revenue number next to a percentage computed on total revenue is an error even when both
-   appear in the filing.
+1. **Prefer the figure the company leads with** in its own narrative.
+2. **If you use a different one, name it** so a reader checking the source can find the line.
+3. **Any percentage sits on the same base as the dollar figures beside it.**
 
 Worked example. Cava's Q2 release headlines "CAVA Revenue grew 31.3% to $365.4 million," while its
 income statement shows total Revenue of $368,436 thousand. The general and administrative percentages
@@ -120,31 +153,24 @@ an item pairing the segment figure with those percentages is wrong.
 
 ## Name the brands a teenager knows
 
-A legal entity name is often not the name anyone recognizes. On first mention, give the brands:
+On first mention, give the brands when the legal name differs:
 
 > TJX Companies, which runs T.J. Maxx, Marshalls, and HomeGoods, ...
 
-`data/universe-curated.csv` carries a `consumer_brands` column and is the authority. If a company is
-not listed there with brands, use the wording in the company's own release rather than recalling brand
-ownership from memory, since brands get bought and sold.
+`data/universe-curated.csv` `consumer_brands` is the authority. If a company has no brands listed
+there, use the release's own wording, never memory, since brands get bought and sold.
 
 ## The teachability gate
 
-**The concept must be explainable to someone who has never seen a financial statement.**
+**The concept must be explainable to someone who has never seen a financial statement.** No share
+counts, dilution or balance-sheet mechanics. If the angle needs a line item explained first, find a
+different angle on the same event or drop the item.
 
-Before drafting, ask: can this be explained without first explaining what a line item is, where it
-sits, or how the statements fit together? If not, either find a different angle on the same event, or
-drop the item.
+Prefer concepts a teenager meets directly: prices, traffic, what a store sells, what a company buys,
+how many locations it has, who owns what.
 
-Prefer concepts a teenager meets directly. Prices, traffic, what a store sells, what a company buys,
-how many locations it has, who owns what. Reach for balance-sheet and capital-structure ideas only
-when the event makes them concrete.
-
-Two from the first live run that show the line:
-
-- **Worked.** Costs at head office growing more slowly than sales. The idea survives without the
-  statements, though the item reached it through a general and administrative line, which made it
-  harder than it needed to be. A version built on what the company sells would have landed sooner.
-- **Too advanced as written.** A share repurchase authorization. It requires knowing what a share is,
-  what an authorization is, and that permission to spend is not spending. Reportable, but it needs a
-  much more grounded explanation than the concept line alone.
+- **Worked.** Head-office costs growing more slowly than sales. The idea survives without the
+  statements.
+- **Too advanced as written.** A share repurchase authorization. It needs a share, an authorization,
+  and the difference between permission to spend and spending. Reportable, but it needs a much more
+  grounded explanation than the concept line alone.

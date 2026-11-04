@@ -1,0 +1,63 @@
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/1874178/000187417826000057/ex-9913q26deliveryproducti.htm
+FETCHED AT: 2026-11-03T19:41:56.019Z
+HTTP STATUS: 200
+
+--- extracted text below; evidence only, never rendered or republished ---
+EX-99.1
+ 2
+ ex-9913q26deliveryproducti.htm
+ EX-99.1
+ 
+ 
+ 
+ 
+ Document 
+ Exhibit 99.1 
+
+ Rivian Releases Q3 2026 Production and Delivery Figures and Sets Date for Third Quarter 2026 Financial Results 
+ 
+ 
+ 
+
+ Irvine, California, October 2, 2026 : Rivian Automotive, Inc. (NASDAQ: RIVN) today announced production and delivery totals for the quarter ending September 30, 2026. The company produced 19,751 vehicles at its manufacturing facility in Normal, Illinois and delivered 19,248 vehicles during the same period. 
+ 
+ 
+ Production and delivery results for the quarter are in line with Rivian's outlook. The company is reaffirming its 2026 delivery range guidance of 65,000 - 70,000.
+ 
+ The company also announced that on October 29, 2026, after market close, it will release its third quarter 2026 financial results. Rivian will host an audio webcast at 5:00 p.m. ET the same day to discuss the performance and outlook for the business. The live webcast will be available at https://rivian-q3-earnings-webcast-2026.open-exchange.net/ and a replay will be available for four weeks at www.rivian.com/investors following the webcast. 
+ 
+ 
+ 
+ About Rivian: 
+ 
+ 
+ Rivian (NASDAQ: RIVN) is an American automotive technology company that develops and manufactures category-defining electric vehicles as well as vertically integrated technologies and offers a suite of value-added services. Through innovation across its electrical architecture, end-to-end software, autonomous driving platform, artificial intelligence, and propulsion, the company creates vehicles that excel at work and play with the goal of accelerating the global transition to zero-emission transportation and energy. Rivian vehicles are manufactured in the United States and are sold directly to consumer and commercial customers. Whether taking families on new adventures or electrifying fleets at scale, Rivian vehicles all share a common goal — preserving the natural world for generations to come. 
+ 
+ 
+ Learn more about the company, products, and careers at www.rivian.com. 
+ 
+ 
+ 
+ Contacts: 
+ Investors: ir@rivian.com 
+ 
+ 
+ Media: Harry Porter, media@rivian.com 
+ 
+ 
+ 
+ 
+ 
+ Forward-Looking Statements: 
+ 
+ 
+ This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements contained in this press release that do not relate to 
+ 
+ 
+
+ 
+ 
+
+ matters of historical fact should be considered forward-looking statements, including without limitation statements regarding our annual delivery outlook. 
+   
+ We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our business, financial condition, and results of operations. Forward-looking statements involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by the forward-looking statements, including, but not limited to, the important factors discussed in Part II, Item 1A, “Risk Factors” in our Quarterly Report on Form 10-Q for the quarter ended June 30, 2026, and our other filings with the Securities and Exchange Commission. The forward-looking statements in this press release are based upon information available to us as of the date of this press release, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely upon these statements. While we may elect to update such forward-looking statements at some point in the future, we disclaim any obligation to do so, even if subsequent events cause our views to change.
