@@ -27,7 +27,7 @@ But each customer brought in 1.4% less on average. The company said new customer
 
 A store's sales are how many people buy times how much each one spends. Those two can move in opposite directions. Your first order from a brand you haven't tried before is often one thing, just to test it. So a wave of new shoppers can pull the average down even while total sales climb.
 
-**Why it matters:** Worth asking when a brand you like keeps growing: is it selling to more people, or getting the same people to spend more?
+**Why it matters:** When a brand you like keeps growing, is it selling to more people, or getting the same people to spend more?
 
 > **Review block**
 > - Figures used: DTC net revenue grew 21.2%; 22.9% increase in Active Customers; 1.4% decline in DTC Net Revenue per Customer (all on the direct-to-consumer base, so the percentages share one base)

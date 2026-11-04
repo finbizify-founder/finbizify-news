@@ -27,7 +27,7 @@ So Yum is now KFC, Taco Bell and Habit Burger & Grill. That's more than 44,000 r
 
 A big company is often several businesses sharing one name. Each brand grows at its own speed, and the parent's results are all of them added together. When one gets sold, the totals change shape even if every remaining restaurant runs exactly as it did last month. So comparing this year's company with last year's means comparing two different sets of businesses.
 
-**Why it matters:** Yum calls itself a "more focused company" now, and that phrase is worth a follow-up question whenever you see it: what was the business that got let go actually doing?
+**Why it matters:** Yum calls itself a "more focused company" now. When you hear that phrase, ask what the business that got let go was actually doing.
 
 > **Review block**
 > - Figures used: approximately $1.5 billion (Pizza Hut Ex-China, subject to certain adjustments); $2.7 billion in the aggregate across both transactions; more than 44,000 restaurants

@@ -27,7 +27,7 @@ So the company behind Royal Caribbean, Celebrity Cruises and Silversea is buying
 
 A company can grow by doing more of what it already does, like adding ships, or by buying into a business someone else already built. Building can take years, and the company keeps full control. Buying gets there faster, and with a half stake the company shares the steering with the other owner.
 
-**Why it matters:** Next time you see an ad for a cruise or a resort, it's worth asking: is that company growing the thing it already does, or paying to own a piece of something new?
+**Why it matters:** Next time you see an ad for a cruise or a resort, is that company growing the thing it already does, or paying to own a piece of something new?
 
 > **Review block**
 > - Figures used: approximately $3 billion for a 50% equity interest; September 23, 2026 announcement; expected close in early 2027

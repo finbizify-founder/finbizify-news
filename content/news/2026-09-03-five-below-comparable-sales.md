@@ -27,7 +27,7 @@ Comparable sales rose 14.1%. And the chain ended the quarter with 2,022 stores.
 
 Total sales can climb two ways: open more stores, or sell more at the stores you already have. Comparable sales sets the new locations aside and counts only stores open long enough to compare with last year. When both numbers rise together, the older stores are growing on their own and the new ones are stacking on top.
 
-**Why it matters:** Worth asking of any chain that's opening stores quickly: how much of the growth came from the places that were already there?
+**Why it matters:** When a chain is opening stores quickly, ask how much of the growth came from the places that were already there.
 
 > **Review block**
 > - Figures used: net sales $1.26 billion; up 22.9%; comparable sales up 14.1%; 2,022 stores

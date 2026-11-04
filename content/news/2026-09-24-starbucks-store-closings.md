@@ -27,7 +27,7 @@ Closing them costs money too. Starbucks expects about $300 million in restructur
 
 Some costs rise and fall with sales, like the milk and cups that go out with every latte. Others stay about the same whether the store is packed or empty, like the rent. A store that can't sell enough to cover those fixed costs can lose money every month it stays open, which is why walking away from a lease can be worth paying for.
 
-**Why it matters:** Next time a coffee shop near you closes, it's worth wondering whether the line was too short or the rent was too high.
+**Why it matters:** Next time a coffee shop near you closes, was the line too short or the rent too high?
 
 > **Review block**
 > - Figures used: approximately 250 closures in North America; more than 18,000 North America coffeehouses; approximately $300 million of restructuring charges

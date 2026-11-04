@@ -29,7 +29,7 @@ The judge kept the other part of the award, $15.4 million of Beyond Meat's profi
 
 A court judgment comes from one event, separate from the everyday work of making and selling food. It can pull down a company's results for a period without telling you much about whether its products are selling. So when you read a company's numbers, it helps to set events like this aside and look at the regular business on its own.
 
-**Why it matters:** Worth noticing next time you're in the plant-based aisle: how many brands are using some mix of the same few words on the package?
+**Why it matters:** Next time you're in the plant-based aisle, count how many brands use some mix of the same few words on the package.
 
 > **Review block**
 > - Figures used: jury actual damages of $23.5 million reduced to $37,500; $15.4 million in disgorgement of the company's profits; ruling date September 18, 2026

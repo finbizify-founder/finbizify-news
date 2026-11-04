@@ -27,7 +27,7 @@ The deal still needs approval from Instacart stockholders and regulators. The co
 
 A company can grow by building a new business itself or by buying one that someone else already built. Building takes time and might not work. Buying is faster, but the buyer usually pays more than the stock was trading for, and that extra is called a premium. DoorDash's CEO said in the release that Instacart has spent years learning to do grocery well, and this deal is one way to get that experience.
 
-**Why it matters:** Worth asking whenever one company buys another: what was it paying extra for that it didn't want to build itself?
+**Why it matters:** Whenever one company buys another, what was it paying extra for that it didn't want to build itself?
 
 > **Review block**
 > - Figures used: approximately $17 billion equity value, expected close end of 2027 or first half of 2028

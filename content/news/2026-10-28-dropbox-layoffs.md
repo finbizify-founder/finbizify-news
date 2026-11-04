@@ -27,7 +27,7 @@ It expects to pay most of that in the fourth quarter of 2026.
 
 Some costs rise and fall with how much a company sells, like a fee charged on each payment. Others stay put whether sales go up or down, like rent and most salaries. At a software company, people tend to be one of the biggest costs in that second group, so cutting staff is one of the faster ways to shrink it. The cut itself costs money up front, in severance.
 
-**Why it matters:** When an app you use announces layoffs, worth asking: which of its costs could it have shrunk any other way?
+**Why it matters:** When an app you use announces layoffs, which of its costs could it have shrunk any other way?
 
 > **Review block**
 > - Figures used: approximately 9% workforce reduction, $27 million to $33 million estimated cash expenditures, majority paid in the fourth quarter of 2026, announced October 28, 2026

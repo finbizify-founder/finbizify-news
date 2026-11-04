@@ -27,7 +27,7 @@ Brakebush brought in about $1.2 billion in net sales over its last 12 months. Ho
 
 A company can grow by selling more through the business it already has, or by buying another company that already has customers and factories. Building usually takes years. Buying adds a whole company's sales once the deal closes, and the price gets paid up front.
 
-**Why it matters:** Worth asking of any company that reports bigger sales a year from now: how much came from the business it already had, and how much did it buy?
+**Why it matters:** When a company reports bigger sales a year from now, how much came from the business it already had, and how much did it buy?
 
 > **Review block**
 > - Figures used: purchase price "approximately $1.055 billion"; Brakebush "approximately $1.2 billion in net sales over the last 12 months"

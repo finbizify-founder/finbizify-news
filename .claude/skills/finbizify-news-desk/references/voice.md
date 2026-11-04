@@ -69,12 +69,15 @@ sentence ever cut from this project for overreach was in it. So:
 - Never money advice. No should, best, make sure.
 - Never a vague generalization ("this shows how business works").
 - A question is always a safe form.
+- Start with the question or the thing to notice. The **Why it matters** label already does the
+  setup, so never open with "Worth asking," "It's worth asking," "Worth noticing" or "It's worth
+  wondering." Vary the openings across a week: When..., Next time..., a bare question.
 
 | Good | Bad |
 |---|---|
 | Next time a chain says sales are up, check whether it opened a pile of new locations | Nobody remodels a kitchen they are about to leave |
 | Next time a price goes up at the register, watch whether the line gets shorter | Raising prices grows sales for a quarter or two |
-| Worth asking of any company that reports growth: which of the two kinds was it? | One grew from its own stores. One grew from a checkbook |
+| When a company reports growth, which of the two kinds was it? | One grew from its own stores. One grew from a checkbook |
 | Next time you see a "record" quarter, check how much came from a one-off event | This will never happen again |
 
 ## Numbers
@@ -102,7 +105,7 @@ One hit fails the item.
   empower, streamline, frictionless, elevate, effortless, data-driven, proactive, visionary,
   disruptive, reimagine, unprecedented, intuitive, accelerate, state-of-the-art, dynamic, immersive,
   supercharge, enduring, interplay, valuable, ecosystem.
-- **Dead phrases:** "In today's," "It's worth noting," "In order to," "At the end of the day,"
+- **Dead phrases:** "In today's," "It's worth noting," "Worth asking" (and every "worth ___ing"), "In order to," "At the end of the day,"
   "Moving forward," "In other words," anything with "nobody" or "most people don't realize."
 - **Dead transitions:** Furthermore, Additionally, Moreover, That said.
 - Engagement bait, hype, "-ing" tack-ons that fake depth, rule-of-three lists, talking down.

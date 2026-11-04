@@ -29,7 +29,7 @@ And the two don't cost the same to sell. The company's cost of entertainment was
 
 Gross margin is what's left from a sale after paying for the thing you sold. A burger needs beef, a bun and fries every time someone orders one. A game needs a lot less per play. So when a business sells two kinds of things, the mix of what you buy changes how much it keeps, even if you spend the same amount.
 
-**Why it matters:** Next time you're somewhere that sells both food and fun, it's worth asking which half of your bill the business gets to keep more of.
+**Why it matters:** Next time you're somewhere that sells both food and fun, which half of your bill does the business get to keep more of?
 
 > **Review block**
 > - Figures used: entertainment revenues $332.6 million (prior year $364.5 million, described only as "down"); food and beverage revenues $211.5 million (prior year $192.9 million, described only as "up"); cost of entertainment 9.2% of entertainment revenues; cost of food and beverage 24.8% of food and beverage revenues (footnote (1) of the statement of operations confirms each cost percentage is on its own revenue line)

@@ -27,7 +27,7 @@ Its stock of unsold new cars dropped to 11 days of supply, from 15 the quarter b
 
 Inventory is stuff a company has made and hasn't sold yet. When a carmaker delivers more than it builds, the difference comes out of cars already waiting for buyers. Too much inventory means money tied up in parked cars. Too little can mean you wait longer for yours.
 
-**Why it matters:** Next time something you want is backordered, it's worth asking: did the company build too few, or did buyers show up faster than it planned?
+**Why it matters:** Next time something you want is backordered, did the company build too few, or did buyers show up faster than it planned?
 
 > **Review block**
 > - Figures used: total production 464,391; total deliveries 486,532; global vehicle inventory (days of supply) 11 in Q3-2026 and 15 in Q2-2026

@@ -27,7 +27,7 @@ The money goes toward buying Kenvue, a deal it expects to close in the fourth qu
 
 A company can grow by selling more of what it already makes. Or it can buy another company and add those sales to its own. Buying tends to be faster, but it costs a lot up front, so the buyer often borrows to do it. You end up with a bigger company and a bill that comes due later.
 
-**Why it matters:** When a brand you use gets a new owner, it's worth asking how the buyer paid for it, and who's paying off that loan now.
+**Why it matters:** When a brand you use gets a new owner, how did the buyer pay for it, and who's paying off that loan now?
 
 > **Review block**
 > - Figures used: $4.9 billion; October 19, 2026; "expected to be consummated in the fourth quarter of 2026"

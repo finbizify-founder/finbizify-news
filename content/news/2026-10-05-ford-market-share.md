@@ -27,7 +27,7 @@ Leave those two models out, and Ford estimates its share of retail sales rose ab
 
 Market share is one company's slice of everything sold in its category. Your sales can shrink while your slice grows, as long as the whole pie shrinks faster. So carmakers watch both: how many vehicles they sold, and how they did against everyone selling next to them.
 
-**Why it matters:** Watch for the word "excluding" in a company's numbers. Worth asking each time: what got left out, and would the picture look different with it back in?
+**Why it matters:** Watch for the word "excluding" in a company's numbers. Each time, ask what got left out, and whether the picture would look different with it back in.
 
 > **Review block**
 > - Figures used: 509,764 vehicles; down 6.6%; approximately 0.4 percentage points; 12.1% (third-quarter retail share); industry decline of about 1%

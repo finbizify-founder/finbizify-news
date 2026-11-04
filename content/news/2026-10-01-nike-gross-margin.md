@@ -27,7 +27,7 @@ But its gross margin rose to 42.8%, up 60 basis points, which is 0.6 of a percen
 
 Gross margin is the share of each sale left over after paying for the product itself. It can rise while sales shrink, if the cost of making, storing or shipping each item comes down. So a company can sell less and still keep more of every dollar it does take in.
 
-**Why it matters:** When a brand you buy from reports falling sales, it's worth asking whether it's keeping more of each sale anyway, and what got cheaper for it.
+**Why it matters:** When a brand you buy from reports falling sales, check whether it's keeping more of each sale anyway, and what got cheaper for it.
 
 > **Review block**
 > - Figures used: revenues "$11.2 billion, down 4 percent on a reported basis"; "Gross margin expanded 60 basis points to 42.8 percent"

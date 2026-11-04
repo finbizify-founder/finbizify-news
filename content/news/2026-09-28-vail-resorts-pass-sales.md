@@ -27,7 +27,7 @@ But sales dollars fell only about 6%. The company said unlimited passes held up 
 
 Sales are how many things you sell times how much each one brings in. When the count drops faster than the dollars, the average sale got bigger. That can happen because prices went up, or because the people still buying picked the pricier option, like an unlimited pass over a few-day one.
 
-**Why it matters:** When a company says its sales held up better than its customer count, it's worth asking whether people paid more for the same thing or traded up to something bigger.
+**Why it matters:** When a company's sales hold up better than its customer count, did people pay more for the same thing, or trade up to something bigger?
 
 > **Review block**
 > - Figures used: pass product units sold through September 18, 2026 "decreased approximately 12%"; sales dollars "decreased approximately 6%" (inclusive of sales and admissions taxes, foreign currency adjusted)

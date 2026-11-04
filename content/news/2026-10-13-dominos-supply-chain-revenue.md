@@ -27,7 +27,7 @@ Its own U.S. stores brought in $61.4 million. That fell after Domino's refranchi
 
 A company you know for one product can be several businesses reported together. A pizza chain can sell pizza in stores it owns, collect fees from the owners of the rest, and sell those owners their ingredients. Each part moves at its own speed, and the one you see at the counter isn't always the biggest.
 
-**Why it matters:** Next time you walk into a chain restaurant, worth asking: who owns this location, and who sells them what's on your plate?
+**Why it matters:** Next time you walk into a chain restaurant, who owns this location, and who sells them what's on your plate?
 
 > **Review block**
 > - Figures used: supply chain revenues $746,154 thousand; total revenues $1,185,598 thousand; U.S. Company-owned stores revenues $61,432 thousand (all third quarter 2026, from the revenue table)

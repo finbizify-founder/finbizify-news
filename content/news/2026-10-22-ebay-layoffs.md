@@ -27,7 +27,7 @@ Same day, it said its third-quarter results would land above the forecast it gav
 
 Cutting jobs costs money once, in severance. The salaries a company stops paying are the ongoing part. That's why companies often report a restructuring charge separately, so you can see how the regular business did without it.
 
-**Why it matters:** Worth asking whenever a company cuts jobs: what will the money it saves pay for? eBay says its savings go back into its own strategic plans.
+**Why it matters:** When a company cuts jobs, what will the money it saves pay for? eBay says its savings go back into its own strategic plans.
 
 > **Review block**
 > - Figures used: approximately 9% of global workforce; $130 million to $150 million pre-tax charges; October 20, 2026; above August 2026 guidance ranges

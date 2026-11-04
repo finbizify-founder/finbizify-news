@@ -27,7 +27,7 @@ Once the deal closes, Stride becomes Chime Bank. Chime expects that in the first
 
 A company that wants something new can build it or buy someone who already has it. Building takes time. Buying can be faster, and you pay for that speed up front. Chime said buying Stride was a faster and more proven path than starting a new bank from scratch.
 
-**Why it matters:** Worth asking of any banking app on your phone: which bank actually holds the money?
+**Why it matters:** Open any banking app on your phone and look for the fine print: which bank actually holds the money?
 
 > **Review block**
 > - Figures used: $590 million in cash; "bank partner for more than seven years"; expected to close "in the first half of 2027"

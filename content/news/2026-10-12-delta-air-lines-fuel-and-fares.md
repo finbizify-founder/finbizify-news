@@ -27,7 +27,7 @@ So it charged more. Delta's passenger mile yield, the money it collects for each
 
 Pricing power is whether a company can charge more and keep its customers. When a big cost goes up, a company that has it can pass part of the increase on to you. A company that lacks it has to absorb the cost, or risk you spending your money somewhere else.
 
-**Why it matters:** Worth asking next time a fare looks higher than last year: is the airline covering a cost, or finding out how much you'll still pay?
+**Why it matters:** Next time a fare looks higher than last year, is the airline covering a cost, or finding out how much you'll still pay?
 
 > **Review block**
 > - Figures used: adjusted fuel price per gallon increased 60 percent year-over-year; passenger mile yield 22.80 cents vs 19.97 cents, up 14%; "September quarter revenue grew approximately 16 percent over prior year, on flat capacity" (chief commercial officer quote)

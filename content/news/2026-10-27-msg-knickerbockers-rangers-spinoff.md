@@ -27,7 +27,7 @@ The combined company brought in $1,153.8 million in revenue in the fiscal year t
 
 One company can hold several businesses that grow at different speeds, and a single total hides which piece did what. A spin-off pulls one of those businesses out and gives it its own shares and its own reports. After the split, you can see each one on its own numbers.
 
-**Why it matters:** When a team, brand or app you follow ends up under a different company name, worth asking: which business was doing the earning before the split?
+**Why it matters:** When a team, brand or app you follow ends up under a different company name, which business was doing the earning before the split?
 
 > **Review block**
 > - Figures used: revenues $1,153,822 thousand (historical, fiscal year ended June 30, 2026), $337,270 thousand (Distribution of MSGR column), date October 26, 2026

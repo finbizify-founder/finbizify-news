@@ -27,7 +27,7 @@ The company said the settlement brings a one-time benefit of about $240 million 
 
 Interchange fees are fees a store pays when a customer pays by credit card. Money from settling a lawsuit over them arrives once. Money from shoppers filling carts comes in every week. Put the two in the same quarter and the business can look stronger than its stores were, which is why companies tend to call out one-time items separately.
 
-**Why it matters:** Worth asking when BJ's reports that quarter: how do the results look with the settlement set aside?
+**Why it matters:** When BJ's reports that quarter, set the settlement aside and see how the rest of the business did.
 
 > **Review block**
 > - Figures used: settlement reached September 4, 2026; one-time pre-tax benefit of approximately $240 million, net of associated legal fees; expected in third quarter fiscal 2026 results

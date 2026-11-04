@@ -117,7 +117,7 @@ holistic, garner, pioneering, unleash, versatile, transformative, redefine, seam
 scalable, robust, breakthrough, empower, streamline, frictionless, elevate, effortless, data-driven,
 proactive, visionary, disruptive, reimagine, unprecedented, intuitive, accelerate, state-of-the-art,
 dynamic, immersive, supercharge, enduring, interplay, valuable, ecosystem); dead phrases ("In
-today's," "It's worth noting," "In order to," "At the end of the day," "Moving forward," "In other
+today's," "It's worth noting," "Worth asking" and every "worth ___ing," "In order to," "At the end of the day," "Moving forward," "In other
 words," anything with "nobody" or "most people don't realize"); Furthermore, Additionally, Moreover,
 That said; engagement bait; hype; "-ing" tack-ons that fake depth; rule-of-three lists; talking down;
 "cheap" or "affordable"; endorsement words (official, partnered, approved, certified, sponsored).

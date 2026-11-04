@@ -27,7 +27,7 @@ Take out changes in gasoline prices and foreign exchange, and the same number wa
 
 Comparable sales usually counts only locations open at least a year, so new stores don't puff up the figure. Price swings on one big item still can. When a store sells gas and pump prices climb, every gallon rings up for more even if drivers fill up the same amount. That's why some retailers also report the figure with those swings taken out.
 
-**Why it matters:** The next time a retailer with gas pumps says sales are up, it's worth asking: up with gas prices, or without them?
+**Why it matters:** The next time a retailer with gas pumps says sales are up, ask: up with gas prices, or without them?
 
 > **Review block**
 > - Figures used: U.S. comparable sales 10.7% for the 16-week fourth quarter; 7.2% adjusted, which the release defines as "excluding the impacts from changes in gasoline prices and foreign exchange"; quarter ended August 30, 2026

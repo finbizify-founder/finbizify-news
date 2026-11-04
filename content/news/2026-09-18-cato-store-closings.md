@@ -29,7 +29,7 @@ In past years, it renewed weak stores for one more year to give them time. This 
 
 Some costs move with sales. Sell fewer shirts and you buy fewer shirts. Rent doesn't move. A store owes the same amount whether the parking lot is full or empty, for as long as the lease runs. That's why the end of a lease is usually when a chain decides whether a weak store stays open.
 
-**Why it matters:** When a store near you closes, it's worth asking whether its lease just ran out, since that tends to be when chains make the call.
+**Why it matters:** When a store near you closes, check whether its lease just ran out. That tends to be when chains make the call.
 
 > **Review block**
 > - Figures used: approximately 70 additional underperforming stores; approximately 120 total planned closures in fiscal 2026; no rent beyond 2026

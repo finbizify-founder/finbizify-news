@@ -27,7 +27,7 @@ PepsiCo says savory snacks sold more and gained market share. But lower effectiv
 
 Pricing power is whether a company can raise prices without losing customers. Effective net pricing is what a company actually collects once discounts, promotions and the mix of package sizes are counted, so it can fall even when the shelf price stays put. When it falls and more bags sell, you're seeing the other side of pricing power: how much more people buy when what they pay gets easier.
 
-**Why it matters:** Next time your usual chips are on promotion, it's worth wondering who's paying for that discount: the store, or the company that makes them?
+**Why it matters:** Next time your usual chips are on promotion, who's paying for that discount: the store, or the company that makes them?
 
 > **Review block**
 > - Figures used: $6,504 million (PepsiCo Foods North America reported net revenue, 12 weeks ended September 5, 2026); $25,274 million total net revenue; up 5.6% (total net revenue)

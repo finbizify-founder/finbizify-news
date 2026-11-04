@@ -27,7 +27,7 @@ Most of that came from bodies in seats. Attendance rose 35.9%. The average movie
 
 A theater's sales are how many people came in multiplied by how much each one spent. It can grow by filling more seats, or by getting the people already there to buy the large popcorn. When attendance jumps and spending per person barely moves, you know which lever did the work.
 
-**Why it matters:** Next time you're standing at the snack counter, it's worth asking which one the theater is counting on more: you showing up, or what you buy once you're inside?
+**Why it matters:** Next time you're at the snack counter, which one is the theater counting on more: you showing up, or what you buy once you're inside?
 
 > **Review block**
 > - Figures used: company consolidated total revenue $1,334.8 million, up 42.2%; attendance up 35.9%; total revenue per patron $22.93, up 4.8%

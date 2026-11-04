@@ -27,7 +27,7 @@ So about 500 more came off the line than went out the door.
 
 Inventory is stuff a company has made or bought and hasn't sold yet. A carmaker builds vehicles, and they wait in lots and delivery centers until a buyer takes one home. When production runs ahead of deliveries, that pile grows, and the company has paid to build vehicles that aren't bringing in money yet. When deliveries run ahead, the pile shrinks.
 
-**Why it matters:** Carmakers usually report both numbers, and it's worth checking which one is bigger: a gap where production keeps beating deliveries tends to be read as a sign the factory is running ahead of buyers.
+**Why it matters:** Carmakers usually report both numbers, so check which one is bigger. A gap where production keeps beating deliveries tends to be read as a sign the factory is running ahead of buyers.
 
 > **Review block**
 > - Figures used: produced 19,751 vehicles; delivered 19,248 vehicles; quarter ending September 30, 2026
